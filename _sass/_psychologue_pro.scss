@@ -77,11 +77,12 @@ ul.mynav {
       padding: 10px 10px 5px 10px;
       display: inline-block;
       text-decoration: none;
+      color: lighten($bg, 90%);
       &:hover {
         background: none;
       }
       &:visited {
-        color: lighten($bg, 90%);
+        color: lighten($bg, 90%) !important;
       }
     }
     &.active, &:hover {
