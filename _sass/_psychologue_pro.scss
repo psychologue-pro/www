@@ -1,0 +1,200 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:700);
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css);
+
+$bg: #eeebe6;
+
+body {
+     background: #fff;
+}
+
+h1, h2 {
+    font-family: 'Comfortaa', cursive;
+}
+
+@media (max-width: 340px) {
+  nav.navbar {
+    display: none;
+  }
+ header {
+   h1 {
+     font-size: 1.7em !important;
+   }
+   h2 {
+     margin-top: 0;
+     font-size: 1.5em !important;
+   }
+   #what {
+     font-size: 1em !important;
+   }
+   img {
+     width: 50px;
+   }
+ }
+ #cta .btn {
+   font-size: 14px !important;
+   padding: 5px 10px;
+ }
+ #curriculum img {
+   text-align:center;
+  max-width: 64px;
+ }
+
+}
+
+
+#header-bg {
+  background: $bg;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+
+#navbar {
+  text-align:center;
+}
+
+.navbar {
+  background: #eeebe6;
+  min-height: 0;
+}
+
+ul.mynav {
+  margin: 0 auto;
+  li {
+    list-style: none;
+    margin: 0 10px;
+    float:left;
+    a {
+      padding: 10px 10px 5px 10px;
+      display: inline-block;
+      text-decoration: none;
+      color: darken($bg, 90%);
+      background: none;
+      &:hover {
+        background: none;
+      }
+      &:visited {
+        color: darken($bg, 90%);
+      }
+    }
+    &.active, &:hover {
+      border-bottom: 3px solid darken($bg, 30%);
+    }
+  }
+}
+
+header {
+  margin-top: 50px;
+  .spacer.visible-lg-block {
+    height: 40px;
+  }
+  img {
+    float: left;
+    margin-right: 10px;
+  }
+  h1 {
+    white-space: nowrap;
+    i {
+      padding-bottom: 10px;
+      border-bottom: 1px solid #eee;
+    }
+  }
+  h1 span, h2 span {
+    color: #bbb;
+  }
+}
+
+div#cta {
+  margin-top: 20px;
+  height: 75px;
+  div.b {
+    float:left;
+  }
+}
+
+div#slider {
+  .btn-outline {
+    margin-top: 10px;
+    margin-right: 30px;
+    $btn-outline-color: #4a4;
+    background: lighten($btn-outline-color, 50%);
+    border: 1px solid $btn-outline-color;
+    color: $btn-outline-color;
+    &:hover {
+      background: $btn-outline-color;
+      color: #fff;
+    }
+  }
+}
+
+#home, #services, #curriculum, #proof, #updates {
+  padding-top: 50px !important;
+}
+
+.carousel {
+  color: #000;
+}
+
+div#twitter {
+  margin: 0 auto;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+.carousel-inner {
+p, div.person {
+  padding: 10px 30px;
+  font-size: 1.2em;
+}
+
+p.testimony span {
+  background: url(/images/quotes.png) no-repeat;
+  padding-left: 28px;
+  padding-top: 7px;
+}
+
+div.person {
+  margin-left: 25px;
+  padding-left: 55px;
+}
+
+.person.a {
+    background: url(/images/girl3.png) no-repeat;
+}
+
+.person.b {
+  background: url(/images/girl-profile2.png) no-repeat;
+}
+
+.person.c {
+  background: url(/images/man.jpg) no-repeat;
+}
+
+}
+
+#contact {
+  margin-bottom: 40px;
+}
+
+.carousel-indicators {
+    z-index: 15;
+    list-style: none;
+    width: 100%;
+    left: 30px;
+    text-align: left;
+    margin: 10px 0 0 0;
+    position: inherit;
+    bottom: inherit;
+    li {
+      background-color: #666;
+      &.active {
+        background-color: #000;
+      }
+    }
+}
+
+tr {
+vertical-align: top;
+}

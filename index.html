@@ -2,22 +2,210 @@
 layout: default
 ---
 
-<div class="home">
+<div id="header-bg">
 
-  <h1 class="page-heading">Posts</h1>
+  <nav class="navbar navbar-right navbar-fixed-top" id="navbar">
+    <div class="container">
+      <ul class="mynav nav">
+        <li role="presentation" class="active"><a href="#home">Accueil</a></li>
+        <li role="presentation"><a href="#skills">Compétences</a></li>
+        <li role="presentation"><a href="#curriculum">Parcours</a></li>
+        <li role="presentation"><a href="#proof">Témoignages</a></li>
+        <li role="presentation"><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <div class="container" id="home">
+    <header>
+      <div class="row">
+        <div class="col-md-6">
+          <img src="/images/logo.png" alt="">
+          <h1>Valérie Chappey</h1>
+          <h2>Psychologue</h2>
+          <p>
+            Que vous ayez besoin de conseils pour résoudre une difficulté ponctuelle ou d'un accompagnement psychothérapique approfondi, je mets mes compétences de Psychologue expérimentée au service de votre mieux-être.
+          </p>
+        </div>
+        <div class="col-md-6 hidden-xs hidden-sm">
+      <div id="carousel-images" class="carousel slide" data-ride="carousel">
+          
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <img src="/images/slides/bench.jpg" class="img-responsive"/>
+          </div>
+          <div class="item">
+            <img src="/images/slides/tree.jpg" class="img-responsive"/>
+          </div>
+          <div class="item">
+            <img src="/images/slides/bird.jpg" class="img-responsive"/>
+          </div>
+          <div class="item">
+            <img src="/images/slides/white-dove.jpg" class="img-responsive"/>
+          </div>
+        </div>
+      </div>
+        </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+    </header>
+  </div>
+</div>
+
+<div class="home container" id="skills">
+  <h2>Compétences</h2>
+  <div id="domains" class="row">
+    <div id="individuals" class="col-sm-6">
+      <h3>Consultations pour les particuliers</h3>
+      <ul>
+        <li>Troubles anxieux, phobies</li>
+        <li>Dépression, SPT</li>
+        <li>Souffrance professionnelle, conflits, burnout</li>
+        <li>Orientation scolaire &amp; profesionnelle, tests</li>
+      </ul>
+    </div>
+    <div id="companies" class="col-sm-6">
+      <h3>Consultante RH</h3>
+      <ul>
+        <li>Recrutement tous profils</li>
+        <li>Bilans professionnels</li>
+        <li>Evaluation psychométriques</li>
+        <li>Conseil et gestion de carrières</li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="curriculum">
+    <h2>Parcours</h2>
+    <div class="row">
+    <div class="col-sm-2 col-xs-6">
+    <img src="/images/photo.jpg" class="img-responsive" alt="Photo de Valérie Chappey">
+    </div>
+    <div class="col-sm-5 col-xs-6">
+      <ul id="courses">
+        <li>Master 2 Psychologie et Ingénierie des Ressources Humaines, donnant accès au titre de psychologue</li>
+        <li>Maîtrise de Psychologie</li>
+        <li>Licence de Psychologie</li>
+        <li>DEUG de Psychologie</li>
+        <li>En Exercice depuis 2000</li>
+      </ul>
+    </div>
+    <div class="col-sm-5 col-xs-6">
+      <ul id="references">
+        <li>n° ADELI 94 93 0795 3</li>
+        <li>Adhérente SFP Société Française de Psychologie</li>
+        <li>Membre FFPP Fédération Française des Psychologues et de Psychologie</li>
+        <li>Adhérente AFFORTHECC Association Francophone de FORmation et Recherche en THErapie Comportementale et Cognitive</li>
+      </ul>
+    </div>
+    </div>
+  </div>
+
+  <div id="proof">
+    <h2>Témoignages clients</h2>
+     <div class="row slides">
+      <div class="col-md-12">
+        <div itemscope="" itemtype="http://schema.org/Product">
+          <meta itemprop="name" content="Consultation Psy en ligne ou par téléphone">
+          <div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+            <meta itemprop="ratingValue" content="5">
+            <meta itemprop="ratingCount" content="5">
+          </div>
+
+          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <div class="row">
+                  <div class="col-md-6">
+                    <p class="testimony" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+                      <span itemprop="reviewBody">Mme Chappey est professionnelle, humaine, honnête. Merci à elle.</span>
+                    </p>
+                    <div class="person a" itemprop="author">Anna S.</div>
+                  </div>
+                  <div class="col-md-6">
+                    <p class="testimony" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+                      <span itemprop="reviewBody">C'est mon médecin traitant qui m'a conduit à choisir Psychologue.pro.</span>
+                    </p>
+                    <div class="person b" itemprop="author">Murielle A</div>
+                  </div>
+                </div>
+              </div>
+              <div class="item a">
+                <p class="testimony" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+                  <span itemprop="reviewBody">Pour moi, c'était difficile, l'idée même de faire une thérapie, ça m'a pris des mois pour franchir le pas ! Mme Chappey m'a mise à l'aise, écoutée, m'a laissé le temps de m'exprimer et m'a aidé à passer le cap d'une situation très compliquée. Je la remercie infiniment pour son soutien inconditionnel... Si vous aussi vous traversez une épreuve, n'attendez pas pour vous faire aider.</span>
+                </p>
+                <div class="person a" itemprop="author"> Agathe M.</div>
+              </div>
+              <div class="item">
+                <p class="testimony" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+                  <span itemprop="reviewBody">Ecoute réelle. Vision lucide des choses. Conseils simples, concrets et surtout pertinents.</span>
+                </p>
+                <div class="person c" itemprop="author"> Alain S.</div>
+              </div>
+              <div class="item">
+                <p class="testimony" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+                  <span itemprop="reviewBody">Très angoissée depuis ma séparation, je ressassais constamment les mêmes choses et je culpabilisais tout le temps. J'ai enfin trouvé un équilibre, même si c'est difficile, j'ai appris à penser aussi à moi... Merci à vous.</span>
+                </p>
+                <div class="person a" itemprop="author">Emilie D.</div>
+              </div>
+              <div class="item">
+                <p class="testimony" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+                  <span itemprop="reviewBody">A l'écoute, douce, souriante, Madame Chappey est une psy hors pair ! J'ai des soucis à mon boulot et elle a très vite compris la situation... Très satisfaite, je la recommande à ceux qui veulent entamer une thérapie comme je l'ai fait.</span>
+                </p>
+                <div class="person b" itemprop="author"> Stéphanie R.</div>
+              </div>
+            </div>
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+            </ol>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="contact">
+    <h2>Contact et mentions légales</h2>
+    <div class="row">
+      <div class="col-md-6">
+        <div>
+          Siret
+        </div>
+        <a href="https://twitter.com/psychologue_pro" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-size="large">Suivre @psychologue_pro</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <div class="fb-like" data-href="https://www.facebook.com/psychologue.pro" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+      </div>
+      <div class="col-md-6">
+        <table width="100%">
+          <tr>
+            <th>Adrresse</th>
+            <td>1 Bd Pierre Mendes France<br/>
+        59370 Mons en Baroeul</td>
+          </tr>
+          <tr>
+            <th>Téléphone</th>
+            <td><a href="tel:0950199139">09 50 199 139</a> / <a href="tel:0660153481">06 60 51 42 27</a></td>
+          </tr>
+          <tr>
+            <td>Mail</td>
+            <td><a href="mailto:contact@psychologue.pro">contact@psychologue.pro</a></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  </div>
 
 </div>
