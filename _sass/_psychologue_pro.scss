@@ -2,13 +2,22 @@
 @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css);
 
 $bg: #eeebe6;
+$bgg: #ddd;
 
 body {
      background: #fff;
+     text-align:justified;
 }
 
 h1, h2 {
     font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+ margin-top: 10px;
+}
+h2 {
+ margin-top: 0;
 }
 
 @media (max-width: 360px) {
@@ -18,8 +27,7 @@ h1, h2 {
      font-size: 1.7em !important;
    }
    h2 {
-     margin-top: 0;
-     font-size: 1.5em !important;
+      font-size: 1.5em !important;
    }
    #what {
      font-size: 1em !important;
@@ -48,7 +56,8 @@ h1, h2 {
 
 #navbar, #navbar .nav-bar {
   text-align:center;
-  background: #eeebe6;
+  background: darken($bgg, 50%) !important;
+  color: lighten($bg, 90%);
   min-height: 0;
   margin-bottom: 0;
 }
@@ -62,24 +71,21 @@ ul.mynav {
   margin: 0 auto;
   li {
     list-style: none;
-    margin: 0 10px;
-    float:left;
-    border-bottom: 3px solid transparent;
+    display: inline-block;
+    border-bottom: 5px solid transparent;
     a {
       padding: 10px 10px 5px 10px;
       display: inline-block;
       text-decoration: none;
-      color: darken($bg, 90%);
-      background: none;
       &:hover {
         background: none;
       }
       &:visited {
-        color: darken($bg, 90%);
+        color: lighten($bg, 90%);
       }
     }
     &.active, &:hover {
-      border-bottom: 3px solid darken($bg, 30%);
+      border-bottom: 5px solid $bg;
     }
   }
 }
@@ -93,6 +99,9 @@ header {
     float: left;
     margin-right: 10px;
   }
+   p {
+     margin-top: 30px !important;
+    }
   h1 {
     white-space: nowrap;
     i {
@@ -128,8 +137,14 @@ div#slider {
   }
 }
 
-#home, #services, #curriculum, #proof, #updates {
+#home, #services, #curriculum, #proof, #updates, #contact {
   padding-top: 50px !important;
+}
+
+.container-line {
+  border-top: 1px solid #0294B5;
+  height: 1px;
+  margin-top: 30px;
 }
 
 .carousel {
@@ -147,7 +162,6 @@ h3 {
 .carousel-inner {
 p, div.person {
   padding: 10px 30px;
-  font-size: 1.2em;
 }
 
 p.testimony span {
