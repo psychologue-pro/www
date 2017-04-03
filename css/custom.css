@@ -1,0 +1,57 @@
+#hero a {
+    text-transform: none !important;
+    font-size: 130%;
+    font-weight: bold !important;
+}
+
+#hero a.rdv {
+    background-color: rgba(255,255,255, 0.1) !important;
+}
+
+.menu > li a {
+    text-transform: none;
+    font-size: 120%;
+}
+
+#hero h1, #hero h2{
+    text-shadow: 2px 2px #000000;
+    font-weight: 400;
+}
+
+section.imagebg h2 {
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+#social-proof div.fb-like {
+    padding-bottom: 20px;
+}
+
+#social-proof .col-sm-6.fb {
+    text-align: right;
+}
+#social-proof .col-sm-6.tw {
+    max-height: 28px;
+    overflow:hidden;
+}
+#social-proof .col-sm-6.tw iframe { 
+    background-color:transparent;
+}
+
+.fb-like.fb_iframe_widget iframe {
+    background-color:transparent;
+    max-height: 90px;
+}
+
+.imageblock.padding {
+    margin-bottom: 8.125em !important;
+}
+
+.logo-module a { margin-right: 30px; }
+h4.logo-light {
+    color: #fff;
+}
+
+.nav-module a.btn {
+    font-size: 150%;
+    font-weight: bold;
+}
