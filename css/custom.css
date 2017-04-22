@@ -33,7 +33,7 @@ section.imagebg h2 {
     max-height: 28px;
     overflow:hidden;
 }
-#social-proof .col-sm-6.tw iframe { 
+#social-proof .col-sm-6.tw iframe {
     background-color:transparent;
 }
 
@@ -49,9 +49,14 @@ section.imagebg h2 {
 .logo-module a { margin-right: 30px; }
 h4.logo-light {
     color: #fff;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
 }
 
 .nav-module a.btn {
     font-size: 150%;
     font-weight: bold;
+}
+
+ul.menu li a.btn {
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
 }
