@@ -3010,35 +3010,7 @@ form[action*='list-manage.com'] .small-meta {
 .twitter-feed .timePosted {
   font-size: .87em;
 }
-/**! 30. Transitions **/
-[class*='transition--'] {
-  transition: 0.3s ease;
-  -webkit-transition: 0.3s ease;
-  -moz-transition: 0.3s ease;
-  opacity: 0;
-}
-[class*='transition--'].transition--active {
-  opacity: 1;
-}
-.transition--scale {
-  transform: scale(0.98);
-  -webkit-transform: scale(0.98);
-}
-.transition--scale.transition--active {
-  opacity: 1;
-  transform: scale(1);
-  -webkit-transform: scale(1);
-}
-.transition--slide {
-  transform: translate3d(200px, 0, 0);
-  -webkit-transform: translate3d(200px, 0, 0);
-  transform: translate3d(30vw, 0, 0);
-  -webkit-transform: translate3d(30vw, 0, 0);
-}
-.transition--slide.transition--active {
-  transform: translate3d(0, 0, 0);
-  -webkit-transform: translate3d(0, 0, 0);
-}
+
 /**! 31. Spacing **/
 section,
 footer {

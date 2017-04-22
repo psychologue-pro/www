@@ -518,35 +518,3 @@ mr = (function (mr, $, window, document){
     return mr;
 
 }(mr, jQuery, window, document));
-
-//////////////// Transitions
-$(window).bind("pageshow", function(event) {
-    if (event.originalEvent.persisted) {
-        window.location.reload();
-    }
-});
-
-mr = (function (mr, $, window, document){
-    "use strict";
-
-    var documentReady = function($){
-        $('a:not([href^="#"]):not([href^="tel"]):not([href^="mailto"]):not([data-lightbox]):not([href=""]):not([target="_blank"]):not(.modal-trigger):not([class*="lb-"])').on('click', function(){
-            $('[class*="transition--"]').removeClass('transition--active');
-        });
-    };
-
-    var windowLoad = function(){
-        $('[class*="transition--"]').addClass('transition--active');
-        $('.loader').addClass('loader--fade');
-    };
-
-    mr.transitions = {
-        documentReady : documentReady,
-        windowLoad : windowLoad
-    };
-
-    mr.components.documentReady.push(documentReady);
-    mr.components.windowLoad.push(windowLoad);
-    return mr;
-
-}(mr, jQuery, window, document));
