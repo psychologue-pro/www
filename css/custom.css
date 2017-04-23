@@ -1,3 +1,11 @@
+h2 {
+    font-size: 4em;
+}
+
+h1 {
+    font-size: 2.8em;
+}
+
 #hero a {
     text-transform: none !important;
     font-size: 130%;
@@ -22,20 +30,20 @@ section.imagebg h2 {
     text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
 }
 
-#social-proof div.fb-like {
-    padding-bottom: 20px;
+#social-proof div {
+    padding: 10px 0 10px 0;
 }
 
-#social-proof .col-sm-6.fb {
-    text-align: right;
+#social-proof .fb {
+    text-align: center;
 }
-
-#social-proof .col-sm-6.tw {
+#social-proof .tw {
     max-height: 28px;
-    overflow: hidden;
+    text-align: center;
 }
 
-#social-proof .col-sm-6.tw iframe {
+
+#social-proof .tw iframe {
     background-color: transparent;
 }
 
@@ -62,6 +70,6 @@ h4.logo-light {
     font-weight: bold;
 }
 
-ul.menu li a.btn {
+a.btn--primary {
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
 }
