@@ -1,0 +1,74 @@
+---
+layout: default
+title: "Articles"
+---
+
+<div class="container">
+    <section class="height-30 page-title page-title--animate">
+        <div class="container pos-vertical-center">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h1>Blog</h1>
+                </div>
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+
+    <section class="section--overlap">
+
+        <!-- This loops through the paginated posts -->
+        {% for post in paginator.posts %}
+
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <a href="#">
+                    <div class="card card-1">
+                        <div class="card__image">
+                            <img alt="Pic" src="/img/aaron-burden-64849.jpg">
+                        </div>
+                        <div class="card__body boxed boxed--sm bg--white">
+                            <h6>{{ post.categories }}</h6>
+                            <div class="card__title">
+                                <h4>{{ post.title }}</h4>
+                            </div>
+                            <!--<div class="card__lower">-->
+                            <!--<span>by</span>-->
+                            <!--<span class="h6">Luke Gibson</span>-->
+                            <!--</div>-->
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        {% endfor %}
+
+
+        {% if 2 > 1 %}
+        <div class="pagination-container">
+            <hr/>
+            <ul class="pagination">
+                <li>
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;&nbsp;Prev</a>
+                </li>
+                {% for page in (1..paginator.total_pages) %}
+                <li>
+                    {% if page == 1 %}
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+                    {% else %}
+                    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+
+                <li>
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next&nbsp;&raquo;</a>
+                </li>
+            </ul>
+        </div>
+        {% endif %}
+
+    </section>
+</div>
