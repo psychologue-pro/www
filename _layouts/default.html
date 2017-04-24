@@ -1,66 +1,140 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <meta name="description"
+          content="Psychologue diplômée, je mets à votre disposition mes compétences pour de vous aider dans vos problématiques personnelles, professionnelles & vos choix de vie."
+    <meta name="keywords"
+          content="Psychologue, TCC, TOC, Troubles obsessionnels compulsifs, Burnout, Stress, Dépression"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="css/theme.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="css/custom.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700%7CMontserrat:400,700' rel='stylesheet'
+          type='text/css'>
+    <meta property="fb:app_id" content="294710420547441"/>
+    <meta property="og:site_name" content="Psychologue.pro"/>
+    <meta property="og:type" content="blog">
+    <meta property="og:url" content="https://psychologue.pro/">
+    <meta property="og:image" content="https://psychologue.pro/screenshot.jpg">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description"
+          content="Psychologue depuis 12 ans, je vous accompagne dans les changements de votre vie.">
+</head>
+<body class="scroll-assist">
 
-  {% include head.html %}
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8&appId=294710420547441";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-  <body data-spy="scroll" data-target="#navbar" data-offset="50">
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.6&appId=294710420547441";
-  fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+<div id="fb-root"></div>
+<a name="home" id="top"></a>
+<nav class="">
+    <div class="nav-bar nav--absolute nav--transparent" data-fixed-at="500">
+        <div class="nav-module logo-module left">
+            <a href="#home" class="inner-link">
+                <h4 class="logo-light">psychologue.pro</h4>
+                <h4 class="logo-dark">psychologue.pro</h4>
+            </a>
+        </div>
+        <div class="nav-module menu-module left">
+            <ul class="menu">
+                <li><a href="#skills">Compétences</a></li>
+                <li><a href="#curriculum">Parcours</a></li>
+                <li><a href="#tips">Informations pratiques</a></li>
+                <li><a href="#contact">Plan d'accès</a></li>
+                <li>
+                    <a class="btn btn--lg btn--primary" href="https://www.clicrdv.com/valerie-chappey-psychologue"
+                       rel="nofollow">
+                                <span class="btn__text"><strong>
+                                    Prendre rendez-vous
+                                </strong></span>
+                    </a>
+                </li>
+                <li></li>
+            </ul>
+        </div>
     </div>
+    <!--end nav bar-->
+    <div class="nav-mobile-toggle visible-sm visible-xs">
+        &#9776;
+    </div>
+</nav>
 
-    {% include footer.html %}
+<!--end of modal-container-->
+<div class="main-container transition--fade">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <script type="application/javascript">
-      $(".nav li a[href^='#']").on('click', function(e) {
+    {{ content }}
 
-   // prevent default anchor click behavior
-   e.preventDefault();
+    <footer class="bg--dark footer-1 text-center-xs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-4">
+                    <a href="#home">
+                        <h4>psychologue.pro</h4>
+                    </a>
+                </div>
+                <div class="col-md-5 col-sm-8">
+                    <em>Mentions légales</em>
+                    <br/><strong>Siret</strong> : 478 270 747 00031
+                    <br/><strong>n° ADELI</strong> : 59 93 27 541
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <table width="100%">
+                        <tr valign="top">
+                            <th>Adresse</th>
+                            <td>200 rue Jules Delcenserie<br/>
+                                59700 Marcq en Baroeul
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Téléphone</th>
+                            <td><a href="tel:+33660514227">06 60 51 42 27</a></td>
+                        </tr>
+                        <tr>
+                            <th>Mail</th>
+                            <td><a href="mailto:contact@psychologue.pro">contact@psychologue.pro</a></td>
+                        </tr>
+                    </table>
 
-   // store hash
-   var hash = this.hash;
+                </div>
+            </div>
+            <div class="row footer__lower text-center-xs">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+                <div class="col-sm-6">
+                    <span class="type--fine-print">Tous droits réservés.</span>
+                </div>
+                <div class="col-sm-6 text-right text-center-xs">
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
 
-   // animate
-   $('html, body').animate({
-       scrollTop: $(hash).offset().top
-     }, 300, function(){
-
-       // when done, add hash to url
-       // (default click behaviour)
-       window.location.hash = hash;
-     });
-
-});
-
-      $('#carousel-example-generic .item').height($('.item.a').height());
-
-    </script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-19274931-1', 'auto');
-  ga('send', 'pageview');
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/parallax.js"></script>
+<script src="js/scripts.js"></script>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "psychologue.pro",
+  "url" : "https://psychologue.pro",
+  "sameAs" : [
+    "https://twitter.com/psychologue_pro",
+    "https://www.facebook.com/psychologue.pro/",
+ ]
+}
 
 </script>
-
-  </body>
-
+</body>
 </html>
