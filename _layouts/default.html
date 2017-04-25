@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>{{ title }}</title>
+    <title>{{ page.title }}</title>
     <meta name="description"
           content="Psychologue diplômée, je mets à votre disposition mes compétences pour de vous aider dans vos problématiques personnelles, professionnelles & vos choix de vie.">
     <meta name="keywords"
@@ -36,7 +36,7 @@
 
 <a name="home" id="top"></a>
 <nav>
-    <div class="nav-bar {{ navbarclass }}" data-fixed-at="500">
+    <div class="nav-bar {{ page.navbarclass }}" data-fixed-at="500">
         <div class="nav-module logo-module left">
             <a href="/#home" class="inner-link">
                 <h4 class="logo-light">psychologue.pro</h4>
@@ -122,6 +122,7 @@
 
 <script src="/js/jquery-2.1.4.min.js"></script>
 <script src="/js/parallax.js"></script>
+<script src="/js/isotope.min.js"></script>
 <script src="/js/scripts.js"></script>
 <script type="application/ld+json">
 {

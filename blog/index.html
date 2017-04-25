@@ -14,37 +14,34 @@ title: "Articles"
         </div>
     </section>
 
-    <section class="section--overlap">
-
-        <!-- This loops through the paginated posts -->
-        {% for post in paginator.posts %}
-
-        <div class="row">
-            <div class="col-md-4 col-sm-6">
-                <a href="{{ post.url }}">
-                    <div class="card card-1">
-                        <div class="card__image">
-                            <img alt="Pic" src="/img/aaron-burden-64849.jpg">
-                        </div>
-                        <div class="card__body boxed boxed--sm bg--white">
-                            <h6>{{ post.categories }}</h6>
-                            <div class="card__title">
-                                <h4>{{ post.title }}</h4>
+    <section class="masonry masonry-blog">
+        <div class="masonry__container masonry--animate masonry--active">
+            <div class="row">
+                <!-- This loops through the paginated posts -->
+                {% for post in paginator.posts %}
+                <div class="col-md-4 col-sm-6 masonry__item">
+                    <a href="{{ post.url }}">
+                        <div class="card card-1">
+                            <div class="card__image">
+                                <img alt="Pic" src="/img/aaron-burden-64849.jpg">
                             </div>
-                            <!--<div class="card__lower">-->
-                            <!--<span>by</span>-->
-                            <!--<span class="h6">Luke Gibson</span>-->
-                            <!--</div>-->
+                            <div class="card__body boxed boxed--sm bg--white">
+                                <h6>{{ post.categories }}</h6>
+                                <div class="card__title">
+                                    <h4>{{ post.title }}</h4>
+                                </div>
+                                <div class="card__lower">
+                                    <p>{{ post.excerpt }}</p>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
+                {% endfor %}
             </div>
         </div>
 
-        {% endfor %}
-
-
-        {% if 2 > 1 %}
+        {% if paginator.total_pages > 1 %}
         <div class="pagination-container">
             <hr/>
             <ul class="pagination">
@@ -54,9 +51,11 @@ title: "Articles"
                 {% for page in (1..paginator.total_pages) %}
                 <li>
                     {% if page == 1 %}
-                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page
+                        }}</a>
                     {% else %}
-                    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{
+                        page }}</a>
                     {% endif %}
                 </li>
                 {% endfor %}
