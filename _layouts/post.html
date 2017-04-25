@@ -1,15 +1,64 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+<section class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="blog-post__title bg--secondary">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+                    <h1 temprop="name headline">{{ page.title }}</h1>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+                    <div class="blog-post__author">
+                        <p class="h6 post-meta">
+                            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date |
+                                date: "%-d/%-m/%y" }}
+                            </time>
+                            {% if page.author %} • <span itemprop="author" itemscope
+                                                         itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{%
+                            endif %}
+                        </p>
+                    </div>
 
-</article>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            {% if page.image %}
+            <div class="col-sm-10 col-sm-offset-1">
+                <img class="blog-post__hero box-shadow" alt="pic" src="{{ page.image }}">
+            </div>
+            {% endif %}
+            <div class="col-sm-8 col-sm-offset-2" itemprop="articleBody">
+                {{ content}}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <div class="blog-post__share">
+                    <h5>Share this article</h5>
+                    <a class="btn btn--sm bg--facebook" href="#">
+                                    <span class="btn__text">
+                                        Share on Facebook
+                                    </span>
+                    </a>
+                    <a class="btn btn--sm bg--twitter" href="#">
+                                    <span class="btn__text">
+                                        Share on Twitter
+                                    </span>
+                    </a>
+                    <a class="btn btn--sm bg--googleplus" href="#">
+                                    <span class="btn__text">
+                                        Share on GooglePlus
+                                    </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--end of container-->
+</section>
