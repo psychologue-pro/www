@@ -2,22 +2,22 @@
 layout: default
 ---
 
-<section class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+<section class="blog-post">
     <div class="blog-post__title imagebg parallax" data-overlay="5">
         {% if page.image %}
-        <div class="background-image-holder" style="transform: translate3d(0px, 300px, 0px); background: url({{ page.image | default: '/img/aaron-burden-64849.jpg' }} ); opacity: 1; top: 0px;">
+        <div class="background-image-holder"
+             style="transform: translate3d(0px, 300px, 0px); background: url({{ page.image | default: '/img/aaron-burden-64849.jpg' }} ); opacity: 1; top: 0px;">
             <img alt="Pic" src="{{ page.image | default: '/img/aaron-burden-64849.jpg'}}">
         </div>
         {% endif %}
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                    <h1 itemprop="name headline">{{ page.title }}</h1>
+                    <h1>{{ page.title }}</h1>
 
                     <div class="blog-post__author">
                         <p class="h6 post-meta">
-                            {% if page.author %} • <span itemprop="author" itemscope
-                                                         itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{%
+                            {% if page.author %} • <span><span itemprop="name">{{ page.author }}</span></span>{%
                             endif %}
                         </p>
                     </div>
@@ -29,7 +29,8 @@ layout: default
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-sm-8 col-sm-offset-2" itemprop="articleBody">
+
+            <div class="col-sm-8 col-sm-offset-2">
 
                 {{ content}}
 
@@ -41,17 +42,20 @@ layout: default
             <div class="col-sm-12 text-center">
                 <div class="blog-post__share">
                     <h5>Share this article</h5>
-                    <a class="btn btn--sm bg--facebook" href="http://www.facebook.com/sharer.php?https://psychologue.pro{{page.url}}">
+                    <a class="btn btn--sm bg--facebook"
+                       href="http://www.facebook.com/sharer.php?https://psychologue.pro{{page.url}}">
                                     <span class="btn__text">
                                         <i class="socicon-facebook"></i> Share on Facebook
                                     </span>
                     </a>
-                    <a class="btn btn--sm bg--twitter" href="https://twitter.com/share?url=https://psychologue.pro{{page.url}}">
+                    <a class="btn btn--sm bg--twitter"
+                       href="https://twitter.com/share?url=https://psychologue.pro{{page.url}}">
                                     <span class="btn__text">
                                         <i class="socicon-twitter"></i> Share on Twitter
                                     </span>
                     </a>
-                    <a class="btn btn--sm bg--googleplus" href="https://plusone.google.com/_/+1/confirm?hl=en&url=https://psychologue.pro{{page.url}}">
+                    <a class="btn btn--sm bg--googleplus"
+                       href="https://plusone.google.com/_/+1/confirm?hl=en&url=https://psychologue.pro{{page.url}}">
                                     <span class="btn__text">
                                         <i class="socicon-googleplus"></i> Share on GooglePlus
                                     </span>

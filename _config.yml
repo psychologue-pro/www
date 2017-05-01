@@ -37,7 +37,6 @@ gems:
 
 facebook:
   app_id: 294710420547441
-
 lang: fr_FR
 
 social:
@@ -46,3 +45,7 @@ social:
     - https://twitter.com/psychologue_pro
     - https://www.facebook.com/psychologue.pro
     - https://www.linkedin.com/in/psychologuepro/
+
+author:
+  image: https://psychologue.pro/images/photo.jpg
+  name: Valérie Chappey
