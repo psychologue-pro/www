@@ -25,14 +25,26 @@ function to_md($i, $row) {
     $intro = str_replace(["\n", '"'], ["", "'"], $converter->convert($row[3]));
     $title = ($converter->convert($row[2]));
     $content = ($converter->convert($row[3]) . "\n" .   ($converter->convert($row[4])));
+    $image = trim($row[8]);
+    if (strpos($image, '/img') === false) {
+        $image = '/img/unsplash/'.$image;
+    }
     $file = <<<EOT
 ---
 layout: post
 encoding: $encoding
 title: "$title"
+slug: "$row[12]"
+redirect_from: /actu/$row[12]"
 date: {$row[6]}
 categories: "$row[1]"
 excerpt: "$intro"
+navbarclass: "nav--absolute nav--transparent"
+image: {$image}
+seo:
+   name: "$title"
+   type: "BlogPosting"
+
 ---
 $content;
 EOT;

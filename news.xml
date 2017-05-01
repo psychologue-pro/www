@@ -12,7 +12,8 @@
 		<field name="published">1</field>
 		<field name="created_at">2010-12-04 10:35:48</field>
 		<field name="updated_at">2011-01-04 07:56:30</field>
-		<field name="picture_file_name">les-parents-toxiques.jpg</field>
+		<field name="picture_file_name">varshesh-joshi-65560.jpg
+		</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">53574</field>
 		<field name="picture_updated_at">2011-01-04 07:56:29</field>
@@ -33,7 +34,8 @@
 		<field name="published">1</field>
 		<field name="created_at">2010-12-17 11:11:30</field>
 		<field name="updated_at">2010-12-30 16:52:08</field>
-		<field name="picture_file_name">iStock_000007897283XSmall.jpg</field>
+		<field name="picture_file_name">breather-7169.jpg
+		</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">196255</field>
 		<field name="picture_updated_at">2010-12-30 16:52:08</field>
@@ -51,7 +53,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2010-12-17 13:53:26</field>
 		<field name="updated_at">2010-12-30 16:52:22</field>
-		<field name="picture_file_name">iStock_000000113594XSmall.jpg</field>
+		<field name="picture_file_name">cel-lisboa-73969.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">197415</field>
 		<field name="picture_updated_at">2010-12-30 16:52:22</field>
@@ -73,29 +75,11 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-01-03 12:25:21</field>
 		<field name="updated_at">2011-01-04 07:55:02</field>
-		<field name="picture_file_name">les-emotifs-anonymes-affiche-france.jpg</field>
+		<field name="picture_file_name">cassidy-kelley-140787.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">108067</field>
 		<field name="picture_updated_at">2011-01-04 07:55:01</field>
 		<field name="url">les-emotifs-anonymes</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta" xsi:nil="true" />
-	</row>
-
-	<row>
-		<field name="id">5</field>
-		<field name="kind">News</field>
-		<field name="title">L'Onisep se met au numérique !</field>
-		<field name="summary">Avec son lecteur numérique Flipbook, vous pouvez désormais accéder aux publications de l'Onisep directement depuis votre PC ou Mac.</field>
-		<field name="body">On y retrouve quelques fonctionnalités sympas comme la possibilité de chercher des articles par mots-clés ou celle d'imprimer des extraits qui vous intéressent. Un bon moyen de concilier écologie (moins de papier) et orientation professionnelle. Actuellement l'abonnement est disponible uniquement pour les établissements scolaires. Espérons qu'il soit proposé aux particuliers dans un avenir proche.&lt;br&gt;&lt;br&gt;Pour en savoir plus : &lt;a href=&quot;http://www.biblionisep.fr&quot;&gt;Biblionisep.fr&lt;/a&gt;&lt;br&gt;</field>
-		<field name="published">1</field>
-		<field name="created_at">2011-01-10 10:55:43</field>
-		<field name="updated_at">2011-01-10 10:55:43</field>
-		<field name="picture_file_name">onisep.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">10937</field>
-		<field name="picture_updated_at">2011-01-10 10:55:42</field>
-		<field name="url">lonisep-se-met-au-numerique</field>
 		<field name="author">Valérie</field>
 		<field name="picture_meta" xsi:nil="true" />
 	</row>
@@ -156,7 +140,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-01-17 14:17:55</field>
 		<field name="updated_at">2011-01-17 14:19:00</field>
-		<field name="picture_file_name">lhomme-qui-voulait-tre-heureux.gif</field>
+		<field name="picture_file_name">emily-morter-188019.jpg</field>
 		<field name="picture_content_type">image/gif</field>
 		<field name="picture_file_size">17984</field>
 		<field name="picture_updated_at">2011-01-17 14:17:54</field>
@@ -174,7 +158,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-01-25 16:55:37</field>
 		<field name="updated_at">2011-01-25 17:00:05</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">josh-felise-79105.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2011-01-25 16:55:36</field>
@@ -248,7 +232,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-02-01 13:19:19</field>
 		<field name="updated_at">2011-02-01 14:59:20</field>
-		<field name="picture_file_name">istock-000011690150xsmall.jpg</field>
+		<field name="picture_file_name">gemma-evans-62123.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">84747</field>
 		<field name="picture_updated_at">2011-02-01 13:19:19</field>
@@ -266,7 +250,8 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-02-07 16:17:47</field>
 		<field name="updated_at">2011-02-07 16:20:27</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">toa-heftiba-84798.jpg
+		</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2011-02-07 16:17:46</field>
@@ -284,7 +269,8 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-02-15 16:15:18</field>
 		<field name="updated_at">2011-02-15 16:16:42</field>
-		<field name="picture_file_name">istock-000011690150xsmall.jpg</field>
+		<field name="picture_file_name">valeriy-khan-172831.jpg
+		</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">84747</field>
 		<field name="picture_updated_at">2011-02-15 16:15:17</field>
@@ -297,13 +283,14 @@
 		<field name="id">11</field>
 		<field name="kind">News</field>
 		<field name="title">Travailler à en mourir</field>
-		<field name="summary">Stress, harclement, suicide : ce documentaire choc rediffusé ce soir à 20h40 sur La Chaine Parlementaire (LCP) dans le cadre de la thématique sur l'emploi, est à ne surtout pas manquer. &lt;br&gt;</field>
+		<field name="summary">Stress, harcèlement, suicide : ce documentaire choc rediffusé ce soir à 20h40 sur La Chaine Parlementaire (LCP) dans le cadre de la thématique sur l'emploi, est à ne surtout pas manquer. &lt;br&gt;</field>
 		<field name="body">&lt;br&gt;Un reportage édifiant sur les techniques managériales qui accentuent la
 			pression sur les employés sous couvert de développer leur motivation. La réalité est beaucoup plus triviale : objectifs de vente irréalisables, gestion inhumaine de la clientle, automatisation des agendas, tension permanente avec la hiérarchie, une course permanente à la rentabilité qui use les personnes jusqu'à ce qu'elles craquent, et plongent dans la dépression. Cette enquête signée Paul Moreira réalisée en 2008 fut suivie en 2009 de la parution d'un ouvrage complet sur le sujet, témoignages à l'appui : &lt;a href=&quot;http://www.amazon.fr/Travailler-mourir-Quand-lentreprise-suicide/dp/2081221985/ref=sr_1_3?s=books&amp;amp;ie=UTF8&amp;amp;qid=1298302477&amp;amp;sr=1-3&quot;&gt;Travailler à en mourir : quand le monde de l'entreprise mne au suicide&lt;/a&gt;, par Hubert Prolongeau et Paul Moreira.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.lcp.fr/Travailler-a-en-mourir-10603.html&quot;&gt;Source LCP&lt;/a&gt;&lt;br&gt;&lt;br&gt;A noter également l'article de ce jour paru dans LeMonde.fr intitulé &lt;a href=&quot;http://www.lemonde.fr/idees/article/2011/02/21/sortir-de-la-souffrance-au-travail_1483153_3232.html&quot;&gt;Sortir de la souffrance au travail&lt;/a&gt; par le psychiatre Christophe Dejours, qui aborde les mêmes problématiques et met l'accent sur les mesures organisationnelles qui permettent de contrer les facteurs à l'origine cette souffrance.&lt;br&gt;&lt;br&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2011-02-21 15:33:41</field>
 		<field name="updated_at">2011-02-21 15:48:20</field>
-		<field name="picture_file_name">travailler-en-mourir-p-moreira.jpg</field>
+		<field name="picture_file_name">jordan-whitfield-112404.jpg
+		</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">14838</field>
 		<field name="picture_updated_at">2011-02-21 15:33:41</field>
@@ -321,31 +308,12 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-02-26 10:44:23</field>
 		<field name="updated_at">2011-02-26 10:45:46</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">khara-woods-85485.jpg
+		</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2011-02-26 10:44:23</field>
 		<field name="url">le-stress-positif-au-travail-est-une-realite</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta" xsi:nil="true" />
-	</row>
-
-	<row>
-		<field name="id">13</field>
-		<field name="kind">News</field>
-		<field name="title">Votre consultation gratuite à l'occasion de la SISM</field>
-		<field name="summary">Du 14 au 20 mars, s'ouvre la 22me Semaine d'Information sur la Santé Mentale (SISM).</field>
-		<field name="body">Ouverte au grand public, la SISM est l'occasion de débattre de grandes questions sur des sujets ayant trait à la santé mentale : sa place dans la société, sa prévention, les moyens d'écoute et de soutien mis en oeuvre, l'aide aux proches de personnes en crise, etc.&lt;br&gt;&lt;br&gt;Pour sensibiliser le plus grand nombre mais aussi les pouvoirs publics, des manifestations auront lieu dans toute la France : conférences, portes ouvertes, diffusions de films, spectacles et pices de théâtre. &lt;br&gt;&lt;br&gt;&lt;u&gt;Pour en savoir plus :&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.psycom75.org/telechargements/SISM_2011/APPEL-A-MANIFESTATIONS-SISM-2011.pdf&quot;&gt;SISM &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.unafam.org/telechargements/dossier_presse_SISM_2011.pdf&quot;&gt;Dossier de presse complet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;A Lyon, les manifestations auront lieu du 14 au 24 mars prochain, en voici le &lt;a href=&quot;http://www.adesr.asso.fr/PDF/SISM-2011-programme.pdf&quot;&gt;programme &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.unafam.org/telechargements/form_inscription_sism.pdf&quot;&gt;Formulaire pour s'inscrire aux manifestations&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;* Aprs réservation et paiement en ligne de votre rendez-vous, celui-ci
-			vous sera intégralement remboursé sous 48 heures. Offre réservée aux
-			consultations effectuées du 14 au 20 Mars.&lt;br&gt;</field>
-		<field name="published">1</field>
-		<field name="created_at">2011-03-13 14:40:03</field>
-		<field name="updated_at">2011-03-13 14:50:58</field>
-		<field name="picture_file_name">news.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">115409</field>
-		<field name="picture_updated_at">2011-03-13 14:40:03</field>
-		<field name="url">votre-consultation-gratuite-a-loccasion-de-la-sism</field>
 		<field name="author">Valérie</field>
 		<field name="picture_meta" xsi:nil="true" />
 	</row>
@@ -359,7 +327,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-03-30 14:59:50</field>
 		<field name="updated_at">2011-03-30 15:05:31</field>
-		<field name="picture_file_name">istock-000011690150xsmall.jpg</field>
+		<field name="picture_file_name">catt-liu-1624.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">84747</field>
 		<field name="picture_updated_at">2011-03-30 14:59:49</field>
@@ -372,12 +340,12 @@
 		<field name="id">15</field>
 		<field name="kind">Livre</field>
 		<field name="title">Imparfaits, libres et heureux - Pratiques de l'estime de soi</field>
-		<field name="summary">Ne plus se soucier de leffet que lon fait sur les autres. Agir sans craindre ni léchec ni le jugement. Ne plus trembler à lidée du rejet. Et trouver tranquillement sa place au milieu des autres. Ce livre va vous aider à avancer sur le chemin de lestime de soi. ä la construire, la réparer, la protéger. Il va vous aider à vous accepter et à vous aimer, même imparfait. Non pour vous résigner, mais pour mieux évoluer. Pour être enfin vous-même, imparfait, mais libre et heureux</field>
+		<field name="summary">Ne plus se soucier de l'effet que l'on fait sur les autres. Agir sans craindre ni l'échec ni le jugement. Ne plus trembler à l'idée du rejet. Et trouver tranquillement sa place au milieu des autres. Ce livre va vous aider à avancer sur le chemin de lestime de soi. ä la construire, la réparer, la protéger. Il va vous aider à vous accepter et à vous aimer, même imparfait. Non pour vous résigner, mais pour mieux évoluer. Pour être enfin vous-même, imparfait, mais libre et heureux</field>
 		<field name="body">&lt;br&gt;Parler d'estime de soi c'est parler de notre rapport à soi et à l'autre, du regard de l'autre sur soi et de la perception qu'on en a. Chacun de nous en possde une à tendance haute ou basse, laquelle va en s'accentuant dans un sens ou dans l'autre selon les situations. Car l'estime de soi est changeante, elle évolue. Christophe André, psychiatre à l'Hpital Sainte Anne à Paris et auteur de nombreux ouvrages à succs (et à raison), connaît bien son sujet. Son ouvrage à la fois didactique mais accessible à tous, aborde tous les aspects d'une estime de soi abîmée, son instabilité et sa fragilité. &lt;br&gt;&lt;br&gt;Psychiatre du &quot;bonheur&quot; parfois injustement moqué par ses pairs, Christophe André pose les jalons d'une problématique qui touche pourtant tout le monde à un moment de sa vie : aprs une remarque désobligeante, un échec, un licenciement, un examen raté, qui n'a pas vu son ego en prendre un coup ? Pour beaucoup d'individus, l'échec passé, l'estime de soi remonte d'elle même avec le passage à autre chose. Pour les autres, complexés, mal dans leur peau, anxieux de nature, l'égratignure peut se transformer en blessure narcissique profonde, provoquant ressassement et dévalorisation. &lt;br&gt;&lt;br&gt;&lt;br&gt;Pour Christophe André l'estime de soi peut être renforcée, mais il s'agit plus d'une course de fond que d'un sprint : il faut la cultiver un petit peu chaque jour. Pour y parvenir, le meilleur moyen reste de travailler sur l'affirmation et l'acceptation de soi.&lt;br&gt;&lt;br&gt;Avec force témoignages et anecdotes, cet ouvrage remet au goût du jour des principes simples mais utiles au quotidien : l'empathie, la gentillesse, la gratitude, l'altruisme, la générosité, le non jugement, etc. Il met également en garde contre la pression sociale toujours plus grande dans notre société consumériste qui formate les esprits et les pousse au conformisme : être jeune, beau, mince, riche, etc. La question de l'estime de soi repose finalement sur une question simple, celle de la place de chacun dans la communauté, comment se situe-t-on au milieu des autres ?&lt;br&gt;&lt;br&gt;Dense et trs éclectique, cet ouvrage fait le constat des causes du mal-être et donne des clefs pour se sentir mieux avec soi-même et parvenir à s'accepter tel que l'on est. Une lecture bénéfique car elle apporte, outre des solutions concrtes, un regard optimiste qui dédramatise et nous apprend à être plus libre et plus heureux.&lt;br&gt;&lt;br&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2011-04-21 16:37:46</field>
 		<field name="updated_at">2011-04-21 16:40:50</field>
-		<field name="picture_file_name">imparfaits-libres-et-heureux.gif</field>
+		<field name="picture_file_name">zachary-nelson-192289.jpg</field>
 		<field name="picture_content_type">image/gif</field>
 		<field name="picture_file_size">6037</field>
 		<field name="picture_updated_at">2011-04-21 16:37:45</field>
@@ -397,7 +365,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-04-22 10:14:21</field>
 		<field name="updated_at">2011-04-22 10:17:52</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">andrew-neel-108081.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2011-04-22 10:14:20</field>
@@ -409,13 +377,13 @@
 	<row>
 		<field name="id">17</field>
 		<field name="kind">News</field>
-		<field name="title">Anxiété et problmes de sommeil</field>
+		<field name="title">Anxiété et problèmes de sommeil</field>
 		<field name="summary">On savait dejà que l'anxiété et le stress favorisaient la détérioration du sommeil, notamment par la survenue d'idées noires et d'émotions négatives. L'effet inverse s'appliquerait également.&lt;br&gt;</field>
 		<field name="body">Le manque de sommeil induirait des états d'anxiété accrus : une étude américaine tend ainsi à démontrer que la privation de sommeil rendrait les personnes plus tristes, plus angoissées, et qu'elles auraient plus tendance à noircir leur perceptions de potentielles catastophes ou menaces extérieures.&lt;br&gt;&lt;br&gt;Un cercle vicieux qui peut rapidement s'instaurer et s'inscrire dans une problématique plus globale : changements d'humeur, difficultés à se concentrer, irritation, problmes de santé récurrents, migraines, dépression. Des symptmes qui ne sont pas sans conséquences sur la vie familiale et sociale.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.cerveauetpsycho.fr/ewb_pages/a/actualite-anxiete-de-la-nuit-blanche-26684.php&quot;&gt;Source&lt;/a&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2011-05-09 10:08:07</field>
 		<field name="updated_at">2011-05-09 10:08:07</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">annie-spratt-46095.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2011-05-09 10:08:06</field>
@@ -433,7 +401,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-05-10 09:40:13</field>
 		<field name="updated_at">2011-05-10 09:49:38</field>
-		<field name="picture_file_name">management-186.jpg</field>
+		<field name="picture_file_name">frank-mckenna-127295.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">37374</field>
 		<field name="picture_updated_at">2011-05-10 09:40:13</field>
@@ -451,7 +419,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-05-18 12:45:12</field>
 		<field name="updated_at">2014-03-24 12:40:11</field>
-		<field name="picture_file_name">istock-000004741398xsmall.jpg</field>
+		<field name="picture_file_name">clem-onojeghuo-208277.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">109512</field>
 		<field name="picture_updated_at">2014-03-24 12:40:11</field>
@@ -474,7 +442,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-05-26 13:41:41</field>
 		<field name="updated_at">2011-05-26 13:44:05</field>
-		<field name="picture_file_name">457.jpg</field>
+		<field name="picture_file_name">inbal-marilli-3425.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">1428638</field>
 		<field name="picture_updated_at">2011-05-26 13:41:39</field>
@@ -492,7 +460,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-07-13 14:08:11</field>
 		<field name="updated_at">2011-07-13 14:08:11</field>
-		<field name="picture_file_name">logo.jpg</field>
+		<field name="picture_file_name">iz-zy-140216.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">15397</field>
 		<field name="picture_updated_at">2011-07-13 14:08:10</field>
@@ -504,13 +472,13 @@
 	<row>
 		<field name="id">22</field>
 		<field name="kind">Livre</field>
-		<field name="title">Le harclement moral dans la vie professionnelle - Démêler le vrai du faux</field>
-		<field name="summary">Spécialiste des questions touchant au Harclement moral et au Harclement professionnel, Marie-France HIRIGOYEN revient dans cet ouvrage sur ces phénomnes sociaux destructeurs dont l'ampleur ne cesse de croître. &lt;br&gt;</field>
+		<field name="title">Le harcèlement moral dans la vie professionnelle - Démêler le vrai du faux</field>
+		<field name="summary">Spécialiste des questions touchant au Harcèlement moral et au Harcèlement professionnel, Marie-France HIRIGOYEN revient dans cet ouvrage sur ces phénomènes sociaux destructeurs dont l'ampleur ne cesse de croître. &lt;br&gt;</field>
 		<field name="body">Forte de son précédent livre et de son expérience de terrain, elle nous propose avec ce volume une analyse encore plus poussée, enrichie de témoignages, d'exemples concrets, de définitions des problmes et des situations, et de réflexions personnelles. &lt;br&gt;&lt;i&gt;&lt;br&gt;Au sommaire :&lt;/i&gt; &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;faire la différence entre le harclement et les autres formes de violences (stress, conflits, pression, etc.), le harclement moral visant un individu devenu &quot;gênant&quot; aux yeux du harceleur, lequel utilise la malveillance et l'humiliation pour lui nuire directement.&lt;/li&gt;&lt;li&gt;détecter et reconnaître un harclement moral (discrimination, peur, isolement, brimade, manipulation, silence des collaborateurs, insultes et attaques répétées, culpabilisation, etc.)&lt;/li&gt;&lt;li&gt;du bon usage du terme de harclement&lt;/li&gt;&lt;li&gt;les autres terminologies : le mobbing (rejet par le groupe et persécutions collectives) ; le bullying (tyrannie, intimidation et brutalité sur les plus faibles) ; harassment (attaques répétées et opiniâtres d'une personne sur une autre) ; whistleblowers ( mise au ban de celui qui dénonce des actes répréhensibles, représailles à son encontre) ; l'ijime (pressions du groupe, typiques dans les entreprises et les écoles japonaises, culture d'annihilation de l'individualisme au profit d'un conformisme collectif)&lt;/li&gt;&lt;li&gt;les méthodes de harclement&lt;/li&gt;&lt;li&gt;les conséquences sur la santé (troubles fonctionnels, stress, dépression, paranoïa, etc.)&lt;/li&gt;&lt;li&gt;les origines du harclement&lt;/li&gt;&lt;li&gt;existe-t-il un profil de victimes ?&lt;/li&gt;&lt;li&gt;que faire pour lutter contre la harclement ?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;i&gt;Extraits :&lt;/i&gt;&lt;br&gt;&lt;br&gt;&quot;la plupart du temps, les brimades sont de nature aléatoire, les modes varient selon les jours. Essayant de comprendre, la personne visée se perd dans un questionnement sans réponse&quot; p. 72&lt;br&gt;&lt;br&gt;&quot;paradoxalement, alors que la société est de plus en plus individualiste, dans le monde du travail, les valeurs individuelles sont escamotées&quot; p. 240&lt;br&gt;&lt;br&gt;&quot;dans une entreprise toxique, il existe des rgles occultes &quot;perverses&quot; : aucune limite n'est imposée au pouvoir des dirigeants et on ne respecte pas les personnes. on y utilise le double langage et le paradoxe pour mieux mettre les salariés sous emprise, on ment pour mieux dissimuler des procédés illégaux.&quot; p. 257&lt;br&gt;&lt;br&gt;&lt;br&gt;Un ouvrage trs utile qui fait écho à de nombreux témoignages et récits vécus. Un espoir, des pistes et des stratégies concrtes sont proposés pour lutter contre la violence de ces pratiques et remettre à leur juste place le respect et la dignité des personnes en contexte professionnel.&lt;br&gt;&lt;br&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2011-08-26 10:10:50</field>
 		<field name="updated_at">2014-03-24 12:39:36</field>
-		<field name="picture_file_name">istock-000004741398xsmall.jpg</field>
+		<field name="picture_file_name">thomas-brault-15523.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">109512</field>
 		<field name="picture_updated_at">2014-03-24 12:39:36</field>
@@ -531,7 +499,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-09-05 14:03:29</field>
 		<field name="updated_at">2011-09-06 09:51:33</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">cel-lisboa-73969.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2011-09-05 14:03:28</field>
@@ -549,7 +517,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-09-19 14:10:07</field>
 		<field name="updated_at">2011-09-19 14:22:00</field>
-		<field name="picture_file_name">affiche-journe-alzheimer.jpg</field>
+		<field name="picture_file_name">cristina-gottardi-227407.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">20760</field>
 		<field name="picture_updated_at">2011-09-19 14:10:07</field>
@@ -563,11 +531,11 @@
 		<field name="kind">News</field>
 		<field name="title">10 octobre 2011 :  Journée mondiale de la Santé Mentale</field>
 		<field name="summary">Comme chaque année le 10 Octobre, lOMS (Organisation mondiale de la Santé) planifie La Journée mondiale de la santé mentale, avec pour objectif de sensibiliser le public aux questions de santé mentale, notamment la prise en charge des troubles mentaux, neurologiques et comportementaux. &lt;br&gt;</field>
-		<field name="body">Cette date est loccasion de parler ouvertement de la maladie mentale et dencourager les investissements en faveur des services de prévention, de promotion et de traitement. Le déficit de traitement des troubles mentaux, neurologiques et liés à labus de substances psycho-actives est considérable, surtout dans les pays pauvres.&lt;br&gt;&lt;br&gt;Un indicateur statistique parle de 154 millions de personnes atteintes de dépression dans le monde.&lt;br&gt;&lt;br&gt;Cette année, le thme de la journée est : «Investir dans la santé mentale». Les ressources humaines et financires allouées à la santé mentale restent insuffisantes, surtout dans les pays pauvres où les souffrances psychiques passent au second plan du fait d'un niveau de mortalité élevé. La majorité des pays en développement lui consacrent en effet moins de 2% de leur budget pour la santé. &lt;br&gt;&lt;br&gt;Dans de nombreux pays, on compte moins dun spécialiste de la santé mentale pour un million dhabitants. &lt;br&gt;&lt;br&gt;L'augmentation des investissements et ressources au bénéfice de la santé mentale est donc un enjeu majeur de cette Journée afin de promouvoir la notion de bien-être, une meilleure efficacité des services consacrés à la prévention des troubles mentaux, au traitement et à l'intégration des personnes atteintes de ces troubles. &lt;br&gt;&lt;br&gt;Source : &lt;a href=&quot;http://www.who.int/fr/&quot;&gt;Site Internet de l'OMS&lt;/a&gt;</field>
+		<field name="body">Cette date est loccasion de parler ouvertement de la maladie mentale et d'encourager les investissements en faveur des services de prévention, de promotion et de traitement. Le déficit de traitement des troubles mentaux, neurologiques et liés à labus de substances psycho-actives est considérable, surtout dans les pays pauvres.&lt;br&gt;&lt;br&gt;Un indicateur statistique parle de 154 millions de personnes atteintes de dépression dans le monde.&lt;br&gt;&lt;br&gt;Cette année, le thme de la journée est : «Investir dans la santé mentale». Les ressources humaines et financires allouées à la santé mentale restent insuffisantes, surtout dans les pays pauvres où les souffrances psychiques passent au second plan du fait d'un niveau de mortalité élevé. La majorité des pays en développement lui consacrent en effet moins de 2% de leur budget pour la santé. &lt;br&gt;&lt;br&gt;Dans de nombreux pays, on compte moins dun spécialiste de la santé mentale pour un million dhabitants. &lt;br&gt;&lt;br&gt;L'augmentation des investissements et ressources au bénéfice de la santé mentale est donc un enjeu majeur de cette Journée afin de promouvoir la notion de bien-être, une meilleure efficacité des services consacrés à la prévention des troubles mentaux, au traitement et à l'intégration des personnes atteintes de ces troubles. &lt;br&gt;&lt;br&gt;Source : &lt;a href=&quot;http://www.who.int/fr/&quot;&gt;Site Internet de l'OMS&lt;/a&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2011-10-05 13:20:53</field>
 		<field name="updated_at">2011-10-05 13:21:09</field>
-		<field name="picture_file_name">image-journee-mondiale-de-la-sante-mentale.jpg</field>
+		<field name="picture_file_name">matthew-kane-92229.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">6694</field>
 		<field name="picture_updated_at">2011-10-05 13:20:52</field>
@@ -590,7 +558,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-10-19 13:40:37</field>
 		<field name="updated_at">2014-03-24 12:38:59</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">romain-vignes-53940.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2014-03-24 12:38:59</field>
@@ -611,47 +579,11 @@
 		<field name="published">1</field>
 		<field name="created_at">2011-11-10 14:03:26</field>
 		<field name="updated_at">2011-11-11 21:17:36</field>
-		<field name="picture_file_name">457.jpg</field>
+		<field name="picture_file_name">glenn-carstens-peters-203007.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">1428638</field>
 		<field name="picture_updated_at">2011-11-10 14:03:25</field>
 		<field name="url">quand-personnaliser-sa-lettre-de-motivation-devient-un-jeu</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta" xsi:nil="true" />
-	</row>
-
-	<row>
-		<field name="id">28</field>
-		<field name="kind">News</field>
-		<field name="title">Et si vous faisiez appel à un psy virtuel ?</field>
-		<field name="summary">Lexpress.fr Styles propose un article sur la consultation psy en ligne, l'occasion de rappeler que cette approche importée des Etats-Unis a de plus en plus d'adeptes !</field>
-		<field name="body">Si cet article reste globalement intéressant, on y développe un peu trop l'idée que la consultation à distance reste une &quot;solution ponctuelle&quot; et que &quot;cette virtualisation évite d'entamer un travail de plus longue haleine, ce qui est regrettable&quot;. Or, la consultation à distance n'a rien de virtuel, il ne s'agit pas d'un programme informatique qui échange avec le patient (cf. &lt;a href=&quot;http://psychologue.pro/actu/quand-le-cerveau-defie-la-machine&quot;&gt;Eliza&lt;/a&gt;), il s'agit bien de dialoguer avec un individu qualifié bien réel, médecin psychiatre ou psychologue, non plus dans son cabinet, mais via téléphone ou chat. Comme le souligne l'excellent Marcel Rufo, il ne s'agit pas de remplacer le modle traditionnel, mais de s'adapter, d'évoluer avec les outils daujourdhui.&lt;br&gt;&lt;br&gt;L'accompagnement psy à distance n'a pas pour vocation de se substituer au classique face-à-face, c'est un mode de travail différent, une alternative pour tous ceux qui n'auraient jamais franchi la porte d'un cabinet. Les personnes peuvent être suivies depuis leur canapé, elles sont plus sereines car elles n'ont plus la crainte de rencontrer quelqu'un dans la salle d'attente, elles n'ont d'ailleurs plus à attendre, car la ponctualité est respectée ! Toutefois, elles ont raison d'être vigilantes, car beaucoup de thérapeutes autoproclamés sévissent sur la toile : il est important de vérifier le parcours du psy, sa formation et son numéro Adeli s'il est médecin ou psychologue, ainsi que son approche méthodologique. &lt;br&gt;&lt;br&gt;La consultation à distance reste avant tout un moyen privilégié pour les personnes en détresse morale, qui ne peuvent pas se déplacer quelle qu'en soit la raison. Enfin, gare aux tarifs exorbitants, ils ne sont pas le garants d'un meilleur service, un entretien par téléphone ou par chat ne doit pas être plus cher qu'en cabinet (en moyenne de 50 à 60 euros), or les tarifs à la minute cités dans l'article restent bien trop élevés.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.lexpress.fr/styles/psycho/et-si-vous-faisiez-appel-a-un-psy-virtuel_1052781.html&quot;&gt;Source &lt;/a&gt;&lt;br&gt;</field>
-		<field name="published">1</field>
-		<field name="created_at">2011-11-22 11:43:14</field>
-		<field name="updated_at">2011-11-22 14:36:12</field>
-		<field name="picture_file_name">news.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">115409</field>
-		<field name="picture_updated_at">2011-11-22 11:43:13</field>
-		<field name="url">et-si-vous-faisiez-appel-a-un-psy-virtuel</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta" xsi:nil="true" />
-	</row>
-
-	<row>
-		<field name="id">29</field>
-		<field name="kind">News</field>
-		<field name="title">Belle et heureuse Année 2012 !</field>
-		<field name="summary">Toute l'équipe de Psychologue.pro vous présente ses meilleurs vux et vous souhaite une excellente Année 2012 !&lt;br&gt;</field>
-		<field name="body">Santé, quiétude, prospérité, réussite, sérénité, bonheur et accomplissement : nous vous souhaitons le meilleur et plus encore !&lt;br&gt;&lt;br&gt;J'en profite également pour remercier celles et ceux qui m'ont fait confiance depuis la création du site. Je continuerai à faire tout mon possible pour vous aider, vous soutenir, vous accompagner, vous conseiller, et mettre mon enthousiasme et mes compétences au service de votre bien-être.&lt;br&gt;&lt;br&gt;Chaleureusement vtre.&lt;br&gt;</field>
-		<field name="published">1</field>
-		<field name="created_at">2011-12-28 11:04:00</field>
-		<field name="updated_at">2011-12-28 11:37:33</field>
-		<field name="picture_file_name">istock-000017961520xsmall.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">222703</field>
-		<field name="picture_updated_at">2011-12-28 11:04:00</field>
-		<field name="url">belle-et-heureuse-annee-2012</field>
 		<field name="author">Valérie</field>
 		<field name="picture_meta" xsi:nil="true" />
 	</row>
@@ -665,7 +597,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-01-05 16:06:42</field>
 		<field name="updated_at">2014-03-24 12:38:31</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">cassidy-kelley-140787.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2014-03-24 12:38:31</field>
@@ -686,7 +618,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-01-13 10:38:57</field>
 		<field name="updated_at">2012-01-13 10:44:56</field>
-		<field name="picture_file_name">neurones-en-couleur.jpg</field>
+		<field name="picture_file_name">jesse-orrico-60373.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">24424</field>
 		<field name="picture_updated_at">2012-01-13 10:38:56</field>
@@ -698,13 +630,13 @@
 	<row>
 		<field name="id">32</field>
 		<field name="kind">News</field>
-		<field name="title">Névroses et acrobaties : c'est Psy !</field>
+		<field name="title">Névroses et acrobaties : c'est Psy!</field>
 		<field name="summary">La compagnie &lt;i&gt;Les 7 doigts de la main&lt;/i&gt; poursuit sa tournée en France et dans le monde pour présenter son show prestigieux intitulé &lt;i&gt;Psy&lt;/i&gt; : une création qui s'inspire des failles de notre psyché pour en faire un spectacle hors du commun.&lt;br&gt;&lt;br&gt;</field>
 		<field name="body">&lt;br&gt;Présentation : &quot;Les 7 doigts de la main sondent les profondeurs denses et surréalistes de la psyché humaine. PSY juxtapose certaines des facettes les plus sombres de la psyché humaine au langage stimulant et exaltant des arts du cirque et nous révle la beauté, lhumour et finalement lomniprésence de nos névroses. &lt;a href=&quot;http://psychologue.pro&quot;&gt;Psy &lt;/a&gt;est un hymne au courage et au pouvoir qui sommeillent en nous, nous permettant de surmonter nos peurs et nos névroses, dépasser nos limites et prendre notre envol !&quot;&lt;br&gt;&lt;br&gt;Acrobates, jongleurs, équilibristes et trapézistes mêlent leur talent pour déployer un spectacle trs visuel et d'une grande inventivité.&lt;br&gt;&lt;br&gt;A venir découvrir d'urgence à Niort, Quimper, Istres, Roubaix et Brest&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://7doigts.com/fr/spectacles/3-psy&quot;&gt;Source &lt;/a&gt;&lt;br&gt;&lt;br&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2012-01-17 09:38:57</field>
 		<field name="updated_at">2012-09-03 16:23:34</field>
-		<field name="picture_file_name">affiche-psy-les-7-doigts-de-la-main.jpg</field>
+		<field name="picture_file_name">alyssa-kibiloski-199277.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">27293</field>
 		<field name="picture_updated_at">2012-01-17 09:38:57</field>
@@ -722,7 +654,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-01-25 10:45:11</field>
 		<field name="updated_at">2012-01-25 10:45:11</field>
-		<field name="picture_file_name">antimanuel-de-psychologie.gif</field>
+		<field name="picture_file_name">lou-levit-1776.jpg</field>
 		<field name="picture_content_type">image/gif</field>
 		<field name="picture_file_size">8057</field>
 		<field name="picture_updated_at">2012-01-25 10:45:10</field>
@@ -734,13 +666,13 @@
 	<row>
 		<field name="id">34</field>
 		<field name="kind">News</field>
-		<field name="title">Plus d'1 enseignant sur 7 se dit en Burn out </field>
+		<field name="title">Plus d'un enseignant sur sept se dit en Burn out </field>
 		<field name="summary">Des études réalisées en 2008 et 2011 par le &quot;Carrefour Santé Social&quot; révlent plusieurs chiffres alarmants sur la fin de carrire des enseignants. Une question majeure sur un véritable enjeu de santé publique.</field>
 		<field name="body">&lt;br&gt;L'enquête de 2008 intitulée &quot;Les enseignants face à leur fin de carrire professionnelle&quot; conduite par le CSS (regroupement de la mutuelle MGEN avec différents partenaires et syndicats d'enseignants) vient d'être publiée. L'objectif de cette étude est de recenser les opinions des enseignants sur leurs conditions de travail, leur état de santé, comprendre les motifs de la prolongation ou de l'arrêt prématuré de leur exercice.&lt;br&gt;&lt;br&gt;On apprend par exemple que le temps de travail est passé entre 2003 et 2012 de 37.5 annuités à 41. Un allongement des cotisations qui n'est pas sans conséquences.&lt;br&gt;&lt;br&gt;Quelques chiffres sur les répondants :&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;3713 questionnaires ont été remplis par les enseignants internautes pour être analysés&lt;/li&gt;&lt;li&gt;62 % des répondants sont des femmes, 38 % des hommes&lt;/li&gt;&lt;li&gt;Ils ont entre 45 et 75 ans avec une moyenne de 54 ans&lt;/li&gt;&lt;li&gt;Leur ancienneté est comprise entre 25 et 40 ans&lt;/li&gt;&lt;li&gt;Leur répartition : 17.7 % ont travaillé en école maternelle, 33.9 % en école primaire, 23 % en collge, 14.2 % en lycée d'enseignement général, 5.1 % en lycée technique et professionnel, 2.6% dans l'enseignement supérieur et 3.5 % dans une autre établissement.&lt;/li&gt;&lt;li&gt;Chaque Académie est représentée hormis la Corse.&lt;/li&gt;&lt;li&gt;54.5 % des personnes questionnées ont une perception positive de leur métier contre seulement 6 % de pas du tout satisfaits.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Parmi les difficultés le plus souvent citées : le comportement de certains élves (manque de respect, incivilités), le bruit (problmes d'insonorisation des locaux), le volume de travail, le niveau des élves, l'isolement, la solitude face aux problmes rencontrés, le rythme de travail, les effectifs trop importants par classe, le manque d'ergonomie des postes de travail, le manque d'hygine.&lt;br&gt;&lt;br&gt;Hors questionnaire, les critiques sur les conditions de travail qui reviennent le plus fréquemment sont liées au &lt;b&gt;manque de considération et de reconnaissance&lt;/b&gt; que ce soit par l'institution elle-même (multiplication des réformes, changements de programmes, etc.), par la hiérarchie, par les parents d'élves et enfin par les inspecteurs qui sanctionnent plus qu'ils ne conseillent. Le second motif exprimé librement est &lt;b&gt;l'épuisement psychologique&lt;/b&gt; : stress, troubles du sommeil, fatigue physique et mentale, lassitude, usure physique (voix, lombaires, articulations, vision, troubles musculo-squelettiques, etc.).&lt;br&gt;&lt;br&gt;Sur une enquête de mai 2011, les résultats sont édifiants : &lt;b&gt;24 % des agents de l'Education nationale se disent en état de tension&lt;/b&gt; dans leur travail, &lt;b&gt;14 % en burn out&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.mgen.fr/index.php?id=2200&quot;&gt;Source &lt;/a&gt;&lt;br&gt;&lt;br&gt;</field>
 		<field name="published">1</field>
 		<field name="created_at">2012-02-01 16:22:43</field>
 		<field name="updated_at">2012-02-18 17:47:44</field>
-		<field name="picture_file_name">prof-en-burn-out.jpg</field>
+		<field name="picture_file_name">cel-lisboa-73969.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">214336</field>
 		<field name="picture_updated_at">2012-02-18 14:01:11</field>
@@ -760,7 +692,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-02-18 16:12:56</field>
 		<field name="updated_at">2012-02-18 16:12:56</field>
-		<field name="picture_file_name">je-dpasse-mes-peurs-et-mes-angoisses.jpg</field>
+		<field name="picture_file_name">andre-hunter-62014.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">14641</field>
 		<field name="picture_updated_at">2012-02-18 16:12:56</field>
@@ -781,7 +713,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-02-26 14:10:11</field>
 		<field name="updated_at">2012-02-26 14:10:11</field>
-		<field name="picture_file_name">istock-000017675015xsmall.jpg</field>
+		<field name="picture_file_name">paul-morris-128424.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">240969</field>
 		<field name="picture_updated_at">2012-02-26 14:10:09</field>
@@ -805,7 +737,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-03-04 21:03:08</field>
 		<field name="updated_at">2012-09-03 16:23:14</field>
-		<field name="picture_file_name">istock-000008603363xsmall.jpg</field>
+		<field name="picture_file_name">sven-scheuermeier-106767.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">42986</field>
 		<field name="picture_updated_at">2012-03-04 21:03:07</field>
@@ -826,7 +758,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-03-08 16:37:08</field>
 		<field name="updated_at">2012-03-08 16:37:08</field>
-		<field name="picture_file_name">lhypocondriaque.gif</field>
+		<field name="picture_file_name">aaron-burden-40490.jpg</field>
 		<field name="picture_content_type">image/gif</field>
 		<field name="picture_file_size">5765</field>
 		<field name="picture_updated_at">2012-03-08 16:37:07</field>
@@ -841,13 +773,13 @@
 	<row>
 		<field name="id">39</field>
 		<field name="kind">Livre</field>
-		<field name="title">Santé mentale : quels progrs ?</field>
+		<field name="title">Santé mentale : quels progrès ?</field>
 		<field name="summary">Le numéro 50 du magazine Cerveau &amp;amp; Psycho propose un grand dossier sur le thme de la santé mentale : son impact sur la vie sociale, l'évolution de sa prise en charge en psychiatrie vers un effort de personnalisation et un état des lieux (positif !) sur les bénéfices reconnus des psychothérapies à distance.&lt;br&gt;&lt;br&gt;</field>
 		<field name="body">&lt;br&gt;Selon une enquête réalisée en Europe en 2010, une personne sur trois souffre d'une maladie psychique ou neurologique dont prs de la moitié sont encore peu ou mal soignées et parfois de façon trs tardive. Ces problématiques de prises en charge des soins varient en fonction des diagnostics et des traitements proposés, ceux-ci n'ayant pas la même efficacité selon les personnes. De plus, les recherches sur le cerveau et par corollaire celles sur les nouveaux médicaments, restent insuffisantes au regard des besoins actuels en psychiatrie. &lt;b&gt;Parmi les maladies du cerveau les plus fréquentes en Europe, on recense les céphalées, les troubles anxieux, la dépression et les troubles du sommeil. &lt;/b&gt;&lt;br&gt;&lt;br&gt;On distingue deux grandes catégories : &lt;br&gt;&lt;ul&gt;&lt;li&gt;les maladies de &lt;b&gt;type neurologique&lt;/b&gt; : qui peuvent impliquer des douleurs, une altération du fonctionnement ou une dégénérescence cérébrale (céphalées, maladie de Parkinson, épilepsie, maladie d'Alzheimer, sclérose en plaque, démences, etc.)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;les &lt;b&gt;maladies mentales&lt;/b&gt; : troubles de l'humeur comme la dépression, les troubles anxieux, les addictions et les troubles du comportements associés, les phobies, les TOC, les troubles psychotiques comme la schizophrénie, etc.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Chaque cas étant différent, on constate que des patients souffrant de troubles similaires ne réagissent pas forcément de la même manire à des traitements identiques. Pour mieux comprendre ce phénomne, les chercheurs s'intéressent à des marqueurs biologiques génétiques et cérébraux permettant d'affiner le diagnostic et ainsi de mieux cibler les approches thérapeutiques afin d'en améliorer l'efficacité au cas par cas. D'autres pistes sont en cours d'étude, notamment sur le &lt;br&gt;sommeil paradoxal ou la concentration en cortisol, une hormone impliquée dans les réactions de stress. Toutes ces recherches vont dans le sens d'&lt;b&gt;une meilleure prise en charge des patients par des traitements personnalisés.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ce dossier revient aussi sur &lt;b&gt;les psychothérapies à distance et leur efficacité une nouvelle fois démontrée&lt;/b&gt;. De nombreuses études parmi les plus récentes sur les e-thérapies parviennent à la conclusion qu'elles sont aussi efficaces que les thérapies en face à face, notamment les plus techniques d'entre elles (comme les TCC) et qu'elles permettent une alliance thérapeutique bien réelle alors que bon nombre de thérapeutes traditionnels sous-estiment encore la qualité des liens qui peuvent se nouer entre un patient et son e-thérapeute. La suspicion sur la méthodologie n'est donc plus de mise, par contre il est encore essentiel pour les personnes en recherche de soins à distance de bien se renseigner sur les différentes approches proposées et bien évidemment sur le sérieux des personnes qui dispensent ces services : diplmes, expérience, etc.&lt;br&gt;&lt;br&gt;Extrait : &quot;Compte tenu de ces résultats positifs, les associations professionnelles se sont laissées convaincre. Différentes associations américaines proposent aujourd'hui des recommandations pour les thérapeutes pratiquant l'e-thérapie, et l'Association Américaine de Psychologie reconnaît désormais l'e-thérapie comme une modalité thérapeutique parmi d'autres, admettant que &lt;i&gt;ce qui est important c'est que le thérapeute soit compétent, peu importe la forme que prend la thérapie&lt;/i&gt;&quot;.&lt;br&gt;&lt;br&gt;A noter également au sommaire de ce numéro, un article sur les TOC, où l'on découvre que la piste anxieuse est un peu délaissée au profit d'une piste neuronale mettant en cause des anomalies du circuit cérébral et plus précisément en relation avec le glutamate, un neurotransmetteur qui pourrait avoir un rle important dans le développement de ce trouble. Une découverte intéressante qui permettrait via l'ajustement du traitement médicamenteux d'en améliorer significativement lefficacité. &lt;br&gt;&lt;br&gt;Source : Magazine Cerveau &amp;amp; Psycho numéro 50 (bimestriel mars -avril 2012)</field>
 		<field name="published">1</field>
 		<field name="created_at">2012-03-21 15:05:08</field>
 		<field name="updated_at">2014-03-24 12:37:35</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">oscar-keys-60730.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2014-03-24 12:37:35</field>
@@ -868,7 +800,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-04-13 15:13:45</field>
 		<field name="updated_at">2014-03-24 12:37:02</field>
-		<field name="picture_file_name">istock-000011690150xsmall.jpg</field>
+		<field name="picture_file_name">alex-read-98811.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">84747</field>
 		<field name="picture_updated_at">2014-03-24 12:37:02</field>
@@ -889,7 +821,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-05-22 09:30:41</field>
 		<field name="updated_at">2012-09-03 16:20:38</field>
-		<field name="picture_file_name">istock-000008603363xsmall.jpg</field>
+		<field name="picture_file_name">sven-scheuermeier-106767.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">42986</field>
 		<field name="picture_updated_at">2012-05-22 09:30:40</field>
@@ -910,7 +842,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-05-30 10:24:03</field>
 		<field name="updated_at">2014-03-24 12:36:33</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">jose-duarte-124848.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2014-03-24 12:36:33</field>
@@ -931,7 +863,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-06-13 15:30:56</field>
 		<field name="updated_at">2014-03-24 12:36:14</field>
-		<field name="picture_file_name">istock-000004741398xsmall.jpg</field>
+		<field name="picture_file_name">mike-wilson-113304.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">109512</field>
 		<field name="picture_updated_at">2014-03-24 12:36:13</field>
@@ -952,7 +884,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-06-26 16:10:32</field>
 		<field name="updated_at">2012-06-26 16:10:32</field>
-		<field name="picture_file_name">istock-000004741398xsmall.jpg</field>
+		<field name="picture_file_name">cassidy-kelley-140787.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">109512</field>
 		<field name="picture_updated_at">2012-06-26 16:10:32</field>
@@ -965,27 +897,6 @@
 	</row>
 
 	<row>
-		<field name="id">45</field>
-		<field name="kind">Livre</field>
-		<field name="title">Guérilla Marketing pour trouver un emploi</field>
-		<field name="summary">Le monde du recrutement subit de grandes mutations depuis quelques années avec le développement d'Internet et des réseaux sociaux. Ce livre explique comment et pourquoi celui qui saura se mettre le mieux en avant grâce à ces évolutions aura de plus grandes chances de trouver un poste.</field>
-		<field name="body">Ces changements sont particulirement vrais dans les secteurs &lt;b&gt;des services, le commerce, l'informatique ou la communicatio&lt;/b&gt;n : le CV se dématérialise et s'enrichit de liens vers &lt;b&gt;graphiques, réalisations et projets&lt;/b&gt;. De même, la recherche d'emploi vs de candidats se fait de plus en plus via des &lt;b&gt;réseaux sociaux&lt;/b&gt;, qu'ils soient professionnels -&amp;nbsp; LinkedIn, Viadeo - ou des sites spécialisés métier (ex: Github ou StackOverflow pour les informaticiens). &lt;br&gt;&lt;br&gt;Co-écrit par Jay Conrad Levinson et David E. Perry et adapté au public français par Jacques Froissant, un pionnier dans le domaine du recrutement en ligne, cet ouvrage explique que &lt;b&gt;la recherche d'emploi s'apparente désormais à une activité de marketing direct&lt;/b&gt;, multicanal, où la connaissance de l'entreprise est fondamentale. Il s'agit de répondre à une annonce de manire ciblée, en sélectionnant les meilleurs éléments de votre parcours en rapport aux attentes précises d'un recruteur. Cette adaptation du profil en fonction des besoins réels du poste, et l'utilisation des nouveaux outils, s'avre la démarche la plus efficace. C'est &lt;b&gt;un travail de recherche, presque d'enquête&lt;/b&gt;, qui peut être long mais qui est facilité par un bon usage d'Internet, comme source importante de renseignements. Par exemple, LinkedIn permet de trouver facilement des employés d'une société (ou d'anciens salariés) et de prendre contact directement avec eux pour obtenir des informations précieuses pour améliorer le contenu de votre candidature.&lt;br&gt;&lt;br&gt;Les chapitres sur le plan de recherche ou l'écriture de CV donnent de solides conseils, notamment l'orientation vers les résultats, idéalement chiffrés, qui a beaucoup plus de poids dans le processus de recrutement. Ainsi, en avançant des éléments factuels, vous démontrez que vous êtes la personne qu'il faut. Exemple : &quot;Conseiller clientle pour 50 clients, dont 20 professionnels avec un portefeuille moyen de 10 000&quot; est bien plus convaincant que &quot;Conseiller clientle pour clients particuliers et professionnels&quot;.&lt;br&gt;&lt;br&gt;Vous trouverez également &lt;b&gt;des tactiques pour planifier votre recherche d'emploi, organiser votre présence sur les réseaux sociaux ou encore des astuces pour bien aborder les entretiens y compris la négociation salariale&lt;/b&gt;. Cependant les idées présentées peuvent ne pas s'appliquer à toutes les situations : le livre est plus orienté vers les col blancs que les col bleus, en particulier dans l'utilisation des réseaux sociaux d'entreprise où on trouvera plus de profils de cadres que d'ouvriers. On peut ds lors utiliser le livre comme &lt;b&gt;une boite à outils&lt;/b&gt; en sélectionnant les pratiques à appliquer selon son profil et le poste que l'on brigue.&lt;br&gt;&lt;br&gt;Si vous êtes en recherche d'emploi, vous serez obligatoirement comparés à d'autres candidats qui, moins compétents mais potentiellement plus extravertis, se présenteront mieux. Les places sont âprement disputées et il est capital de &lt;b&gt;montrer le meilleur de soi-même pour obtenir le poste auquel on aspire&lt;/b&gt;. &lt;i&gt;Guérilla Marketing pour trouver un emploi &lt;/i&gt;vous donne les armes pour y parvenir. &lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://www.amazon.fr/Marketing-recherche-utilisant-meilleures-strat%C3%A9gies/dp/2354560419&quot;&gt;Guérilla Marketing pour trouver un emploi&lt;/a&gt; - Jay Conrad Levinson (US), David E. Perry (US), Jacques Froissant (FR)&lt;br&gt;Editions Diateino / Avril 2012 / 414 pages</field>
-		<field name="published">1</field>
-		<field name="created_at">2012-07-13 11:45:42</field>
-		<field name="updated_at">2012-07-13 11:46:54</field>
-		<field name="picture_file_name">guerilla-marketing.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">19364</field>
-		<field name="picture_updated_at">2012-07-13 11:45:42</field>
-		<field name="url">guerilla-marketing-pour-trouver-un-emploi</field>
-		<field name="author">Jay C. Levinson, D. E. Perry, J. Froissant </field>
-		<field name="picture_meta">BAh7CToLbWVkaXVtewg6C2hlaWdodGkByDoKd2lkdGhpAcg6CXNpemVpAkcn
-			Og1vcmlnaW5hbHsIOwZpAiwBOwdpAiwBOwhpAqRLOgluZXdzewg7BmkB0jsH
-			aQHSOwhpAgwrOgp0aHVtYnsIOwZpUDsHaVA7CGkCOAk=
-		</field>
-	</row>
-
-	<row>
 		<field name="id">46</field>
 		<field name="kind">News</field>
 		<field name="title">Les bénéfices de la méditation sur notre santé</field>
@@ -994,7 +905,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-07-31 13:13:37</field>
 		<field name="updated_at">2014-03-24 12:35:15</field>
-		<field name="picture_file_name">istock-000020298920xsmall.jpg</field>
+		<field name="picture_file_name">kosal-ley-186072.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">168559</field>
 		<field name="picture_updated_at">2014-03-24 12:35:15</field>
@@ -1095,7 +1006,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-09-04 16:22:10</field>
 		<field name="updated_at">2012-09-04 16:22:49</field>
-		<field name="picture_file_name">istock-000011690150xsmall.jpg</field>
+		<field name="picture_file_name">gemma-evans-62123.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">84747</field>
 		<field name="picture_updated_at">2012-09-04 16:22:09</field>
@@ -1116,7 +1027,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-09-19 14:00:30</field>
 		<field name="updated_at">2012-09-19 14:00:30</field>
-		<field name="picture_file_name">alzheimer-jm2012.jpg</field>
+		<field name="picture_file_name">cristina-gottardi-227407.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">59161</field>
 		<field name="picture_updated_at">2012-09-19 14:00:29</field>
@@ -1137,7 +1048,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-10-05 13:05:00</field>
 		<field name="updated_at">2012-10-05 13:05:00</field>
-		<field name="picture_file_name">istock-000004741398xsmall.jpg</field>
+		<field name="picture_file_name">cassidy-kelley-140787.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">109512</field>
 		<field name="picture_updated_at">2012-10-05 13:05:00</field>
@@ -1158,7 +1069,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-10-16 13:26:24</field>
 		<field name="updated_at">2014-03-24 12:34:33</field>
-		<field name="picture_file_name">istock-000004741398xsmall.jpg</field>
+		<field name="picture_file_name">mike-wilson-113304.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">109512</field>
 		<field name="picture_updated_at">2014-03-24 12:34:33</field>
@@ -1179,7 +1090,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2012-11-22 14:42:30</field>
 		<field name="updated_at">2014-03-24 12:33:51</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">tony-webster-97532.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2014-03-24 12:33:51</field>
@@ -1192,27 +1103,6 @@
 	</row>
 
 	<row>
-		<field name="id">52</field>
-		<field name="kind">News</field>
-		<field name="title">Bonne Année !</field>
-		<field name="summary">L'équipe du cabinet de consultations en ligne &lt;i&gt;psychologue.pro&lt;/i&gt; vous présente ses meilleurs voeux et vous souhaite &lt;b&gt;une trs belle année 2013&lt;/b&gt; !</field>
-		<field name="body">Santé, prospérité, réussite, sérénité, bonheur et accomplissement : nous vous souhaitons une heureuse année parsemée de petits plaisirs et de grandes joies !&lt;br&gt;&lt;br&gt;&lt;b&gt;Un grand Merci à toutes celles et ceux qui m'ont fait confiance et ont permis que ce projet de consultations à distance grandisse et s'épanouisse pour devenir un site Internet aujourd'hui renommé.&lt;/b&gt; Je continuerai avec mon équipe en 2013 à uvrer pour en améliorer l'utilisation et permettre de rendre possible l'accs au soin psychologique à tous ceux qui en ont besoin. &lt;br&gt;&lt;br&gt;Psychologue passionnée, je poursuis l'objectif de contribuer à votre mieux-être et votre développement personnel, dans un souci constant de rigueur déontologique et de confidentialité. Excellente année à tous !</field>
-		<field name="published">1</field>
-		<field name="created_at">2013-01-03 10:07:01</field>
-		<field name="updated_at">2013-01-03 10:07:01</field>
-		<field name="picture_file_name">istock-000019216178xsmall.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">266332</field>
-		<field name="picture_updated_at">2013-01-03 10:07:00</field>
-		<field name="url">bonne-annee</field>
-		<field name="author">Valerie</field>
-		<field name="picture_meta">BAh7CToNb3JpZ2luYWx7CDoLaGVpZ2h0aQIaAToKd2lkdGhpAqkBOglzaXpl
-			aQNcEAQ6CW5ld3N7CDsGaQHSOwdpAdI7CGkDdUgBOgp0aHVtYnsIOwZpNzsH
-			aVA7CGkCsCY6C21lZGl1bXsIOwZpAYU7B2kByDsIaQLd1g==
-		</field>
-	</row>
-
-	<row>
 		<field name="id">53</field>
 		<field name="kind">Livre</field>
 		<field name="title">Pratiquer la sophrologie au quotidien</field>
@@ -1221,7 +1111,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2013-02-20 16:06:56</field>
 		<field name="updated_at">2014-03-24 12:33:23</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">kosal-ley-186072.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2014-03-24 12:33:23</field>
@@ -1242,7 +1132,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2013-03-06 13:31:24</field>
 		<field name="updated_at">2013-03-06 13:31:24</field>
-		<field name="picture_file_name">affiche-nationale-2013.jpg</field>
+		<field name="picture_file_name">jesse-orrico-60373.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">340544</field>
 		<field name="picture_updated_at">2013-03-06 13:31:23</field>
@@ -1255,27 +1145,6 @@
 	</row>
 
 	<row>
-		<field name="id">55</field>
-		<field name="kind">News</field>
-		<field name="title">Reprise des rendez-vous</field>
-		<field name="summary">Chr(e)s client(e)s,&lt;br&gt;Les consultations par Skype et téléphone reprendront à compter du 5 juin 2013, les échanges d'email sont disponibles ds à présent.&lt;br&gt;&lt;br&gt;</field>
-		<field name="body">Quelques modifications du site psychologue.pro sont à venir :&lt;br&gt;&lt;ul&gt;&lt;li&gt;Les rendez-vous par messageries instantanées MSN et Gtalk sont supprimés (possibilité d'utiliser Skype à la place)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Le tarif téléphonie fixe passe à 50 euros&lt;/li&gt;&lt;li&gt;Les tarifs mail &amp;amp; téléphonie mobile restent inchangés, respectivement 25 et 50 euros&lt;br&gt;&lt;/li&gt;&lt;li&gt;Enfin, les tarifs des consultations soir, week-end et jours fériés passent à 55 euros &lt;/li&gt;&lt;/ul&gt;Si vous avez des questions spécifiques, n'hésitez pas à me contacter sur ma boîte mail : contact@psychologue.pro.&lt;br&gt;&lt;br&gt;A trs bientt&lt;br&gt;&lt;br&gt;</field>
-		<field name="published">1</field>
-		<field name="created_at">2013-05-16 14:21:27</field>
-		<field name="updated_at">2013-05-16 14:22:15</field>
-		<field name="picture_file_name">istock-000020298920xsmall.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">168559</field>
-		<field name="picture_updated_at">2013-05-16 14:21:26</field>
-		<field name="url">reprise-des-rendez-vous</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta">BAh7CToNb3JpZ2luYWx7CDoLaGVpZ2h0aQIaAToKd2lkdGhpAqkBOglzaXpl
-			aQNvkgI6C21lZGl1bXsIOwZpAYU7B2kByDsIaQIkajoJbmV3c3sIOwZpAdI7
-			B2kB0jsIaQIVvzoKdGh1bWJ7CDsGaTc7B2lQOwhpAkUR
-		</field>
-	</row>
-
-	<row>
 		<field name="id">56</field>
 		<field name="kind">News</field>
 		<field name="title">Les troubles du sommeil</field>
@@ -1284,7 +1153,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2013-06-18 16:12:54</field>
 		<field name="updated_at">2013-06-18 16:12:54</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">mark-solarski-177423.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2013-06-18 16:12:53</field>
@@ -1305,7 +1174,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2013-07-04 20:32:36</field>
 		<field name="updated_at">2013-07-04 20:32:36</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">dawid-zawila-192545.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2013-07-04 20:32:36</field>
@@ -1326,7 +1195,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2013-11-05 15:26:46</field>
 		<field name="updated_at">2014-03-24 12:32:52</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">carlo-navarro-219810.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2014-03-24 12:32:52</field>
@@ -1347,7 +1216,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2013-11-20 16:02:11</field>
 		<field name="updated_at">2014-03-24 12:32:05</field>
-		<field name="picture_file_name">istock-000019902429xsmall.jpg</field>
+		<field name="picture_file_name">andre-hunter-62014.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">186731</field>
 		<field name="picture_updated_at">2014-03-24 12:32:04</field>
@@ -1360,36 +1229,15 @@
 	</row>
 
 	<row>
-		<field name="id">60</field>
-		<field name="kind">News</field>
-		<field name="title">Bonne Année !</field>
-		<field name="summary">L'équipe du cabinet de consultations en ligne &lt;i&gt;psychologue.pro&lt;/i&gt; vous présente ses meilleurs voeux et vous souhaite &lt;b&gt;une trs belle année 2015&lt;/b&gt; !</field>
-		<field name="body">Santé, prospérité, réussite, sérénité, bonheur et accomplissement : nous vous souhaitons une belle et heureuse année !&lt;br&gt;&lt;br&gt;Un grand Merci à toutes celles et ceux qui m'ont renouvelé leur confiance et ont permis que ce projet de consultations à distance grandisse et s'épanouisse pour devenir un site Internet aujourd'hui renommé. Je continuerai avec mon équipe en 2015 à uvrer pour en améliorer l'utilisation et permettre de rendre possible l'accs au soin psychologique à tous ceux qui en ont besoin.&lt;br&gt;&lt;br&gt;Psychologue passionnée, je poursuis l'objectif de contribuer à votre mieux-être et votre développement personnel, dans un souci constant de rigueur déontologique et de confidentialité. Excellente année à tous !</field>
-		<field name="published">1</field>
-		<field name="created_at">2015-01-01 11:54:51</field>
-		<field name="updated_at">2015-01-01 10:43:21</field>
-		<field name="picture_file_name">photodune-2727245-new-year-xs.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">174501</field>
-		<field name="picture_updated_at">2014-01-01 12:04:17</field>
-		<field name="url">bonne-annee-1</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta">BAh7CToLbWVkaXVtewg6C2hlaWdodGkBoDoKd2lkdGhpAcg6CXNpemVpAghd
-			OgluZXdzewg7BmkB0jsHaQHSOwhpApJ1Ogp0aHVtYnsIOwZpQTsHaVA7CGkC
-			MRM6DW9yaWdpbmFsewg7BmkCkAE7B2kC9AE7CGkDpakC
-		</field>
-	</row>
-
-	<row>
 		<field name="id">61</field>
 		<field name="kind">Livre</field>
-		<field name="title">Stress, harclement, burn out</field>
+		<field name="title">Stress, harcèlement, burn out</field>
 		<field name="summary">Grand dossier ce mois-ci dans Le journal des Psychologues sur ces souffrances au travail : &lt;b&gt;Les risques psychosociaux : de la prévention au soutien psychologique&lt;/b&gt;.&lt;br&gt;</field>
 		<field name="body">&lt;u&gt;Au sommaire de ce numéro :&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Aspect juridique&lt;/b&gt;, où en sont les lois ? Que dit le code du travail ? Comment l'employeur peut-il &lt;b&gt;prévenir ces risques&lt;/b&gt; ? Quelles sont ses &lt;b&gt;obligations légales&lt;/b&gt; via-à-vis de ses salariés ? Comment &lt;b&gt;détecter un burn out&lt;/b&gt; ? Comment &lt;b&gt;démontrer un harclement moral&lt;/b&gt; ?&lt;/li&gt;&lt;li&gt;Le &lt;b&gt;rle du psychologue&lt;/b&gt; dans la prévention des risques psychosociaux et ses compétences spécifiques&lt;/li&gt;&lt;li&gt;&lt;b&gt;Harclement moral et suicide&lt;/b&gt;, des sujets tabous &lt;/li&gt;&lt;li&gt;Les &lt;b&gt;contraintes culturelles et organisationnelles dans la prévention des risques &lt;/b&gt;&lt;/li&gt;&lt;li&gt;Le &lt;b&gt;bilan de compétences comme lieu d'expression de sa souffrance&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;i&gt;Source :&lt;/i&gt; &lt;a href=&quot;http://www.jdpsychologues.fr/&quot;&gt;Le Journal des Psychologues&lt;/a&gt; n° 314 Février 2014</field>
 		<field name="published">1</field>
 		<field name="created_at">2014-02-06 17:37:01</field>
 		<field name="updated_at">2014-03-24 11:35:24</field>
-		<field name="picture_file_name">news.jpg</field>
+		<field name="picture_file_name">/img/unsplash/luis-llerena-15500.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">115409</field>
 		<field name="picture_updated_at">2014-03-24 11:35:23</field>
@@ -1410,7 +1258,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2014-02-27 16:49:05</field>
 		<field name="updated_at">2014-02-27 16:49:05</field>
-		<field name="picture_file_name">et-noublie-pas-dtre-heureux.jpg</field>
+		<field name="picture_file_name">/img/unsplash/lesly-b-juarez-220845.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">41727</field>
 		<field name="picture_updated_at">2014-02-27 16:49:04</field>
@@ -1433,7 +1281,7 @@
 		<field name="published">1</field>
 		<field name="created_at">2014-03-12 10:54:45</field>
 		<field name="updated_at">2014-03-12 10:54:45</field>
-		<field name="picture_file_name">a3-sism-national.jpg</field>
+		<field name="picture_file_name">aaron-burden-40490.jpg</field>
 		<field name="picture_content_type">image/jpeg</field>
 		<field name="picture_file_size">3413405</field>
 		<field name="picture_updated_at">2014-03-12 10:54:41</field>
@@ -1444,27 +1292,5 @@
 			Cg46DW9yaWdpbmFsewg7BmkCYRM7B2kCtA07CGkDnRU0
 		</field>
 	</row>
-
-	<row>
-		<field name="id">64</field>
-		<field name="kind">News</field>
-		<field name="title">Reprise des rendez-vous</field>
-		<field name="summary">Les rendez-vous reprendront à compter du &lt;i style=&quot;font-weight: bold;&quot;&gt;15 avril &lt;/i&gt;prochain.&amp;nbsp;</field>
-		<field name="body">Mes disponibilités sont mises en ligne ds à présent et réactualisées régulirement.&amp;nbsp;&lt;br&gt;&lt;br&gt;Pour les nouveaux patients, n'hésitez pas à me contacter par email contact@psychologue.pro pour une &lt;b&gt;premire consultation gratuite&lt;/b&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;</field>
-		<field name="published">1</field>
-		<field name="created_at">2015-04-02 09:38:14</field>
-		<field name="updated_at">2015-04-02 09:38:14</field>
-		<field name="picture_file_name">istock-000017675015xsmall.jpg</field>
-		<field name="picture_content_type">image/jpeg</field>
-		<field name="picture_file_size">240969</field>
-		<field name="picture_updated_at">2015-04-02 09:38:14</field>
-		<field name="url">reprise-des-rendez-vous-1</field>
-		<field name="author">Valérie</field>
-		<field name="picture_meta">BAh7CToLbWVkaXVtewg6C2hlaWdodGkBtToKd2lkdGhpAcg6CXNpemVpAmn/
-			OgluZXdzewg7BmkB0jsHaQHSOwhpAxFGAToKdGh1bWJ7CDsGaUk7B2lQOwhp
-			Ah8tOg1vcmlnaW5hbHsIOwZpAkoBOwdpAmwBOwhpA0mtAw==
-		</field>
-	</row>
-
 
 </resultset>

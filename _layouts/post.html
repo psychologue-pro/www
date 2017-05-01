@@ -3,7 +3,12 @@ layout: default
 ---
 
 <section class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
-    <div class="blog-post__title bg--secondary">
+    <div class="blog-post__title imagebg parallax" data-overlay="5">
+        {% if page.image %}
+        <div class="background-image-holder" style="transform: translate3d(0px, 300px, 0px); background: url({{ page.image | default: '/img/aaron-burden-64849.jpg' }} ); opacity: 1; top: 0px;">
+            <img alt="Pic" src="{{ page.image | default: '/img/aaron-burden-64849.jpg'}}">
+        </div>
+        {% endif %}
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
@@ -11,54 +16,48 @@ layout: default
 
                     <div class="blog-post__author">
                         <p class="h6 post-meta">
-                            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date |
-                                date: "%-d/%-m/%y" }}
-                            </time>
                             {% if page.author %} • <span itemprop="author" itemscope
                                                          itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{%
                             endif %}
                         </p>
                     </div>
-
                 </div>
             </div>
+            <!--end of row-->
         </div>
+        <!--end of container-->
     </div>
-
     <div class="container">
         <div class="row">
-            {% if page.image %}
-            <div class="col-sm-10 col-sm-offset-1">
-                <img class="blog-post__hero box-shadow" alt="pic" src="{{ page.image }}">
-            </div>
-            {% endif %}
             <div class="col-sm-8 col-sm-offset-2" itemprop="articleBody">
+
                 {{ content}}
+
+                <hr>
             </div>
         </div>
-
+        <!--end of row-->
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="blog-post__share">
                     <h5>Share this article</h5>
-                    <a class="btn btn--sm bg--facebook" href="#">
+                    <a class="btn btn--sm bg--facebook" href="http://www.facebook.com/sharer.php?https://psychologue.pro{{page.url}}">
                                     <span class="btn__text">
-                                        Share on Facebook
+                                        <i class="socicon-facebook"></i> Share on Facebook
                                     </span>
                     </a>
-                    <a class="btn btn--sm bg--twitter" href="#">
+                    <a class="btn btn--sm bg--twitter" href="https://twitter.com/share?url=https://psychologue.pro{{page.url}}">
                                     <span class="btn__text">
-                                        Share on Twitter
+                                        <i class="socicon-twitter"></i> Share on Twitter
                                     </span>
                     </a>
-                    <a class="btn btn--sm bg--googleplus" href="#">
+                    <a class="btn btn--sm bg--googleplus" href="https://plusone.google.com/_/+1/confirm?hl=en&url=https://psychologue.pro{{page.url}}">
                                     <span class="btn__text">
-                                        Share on GooglePlus
+                                        <i class="socicon-googleplus"></i> Share on GooglePlus
                                     </span>
                     </a>
                 </div>
             </div>
         </div>
     </div>
-    <!--end of container-->
 </section>

@@ -12,10 +12,17 @@ description: > # this means to ignore newlines until "baseurl:"
  Que vous ayez besoin de conseils pour résoudre une difficulté ponctuelle ou d'un accompagnement psychothérapique approfondi, je mets mes compétences de Psychologue expérimentée au service de votre mieux-être.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://psychologue.pro" # the base hostname & protocol for your site
+
+twitter:
+  username: psychologue_pro
 twitter_username: psychologue_pro
-github_username:  psychologue_pro
-paginate: 6
+
+paginate: 12
+
 paginate_path: "/blog/page-:num/"
+
+permalink: "/blog/:title"
+
 # Build settings
 markdown: kramdown
 gems:
@@ -24,4 +31,18 @@ gems:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
-#   - jemoji
+   - jekyll-redirect-from
+   - jemoji
+   - jekyll-seo-tag
+
+facebook:
+  app_id: 294710420547441
+
+lang: fr_FR
+
+social:
+  name: Valérie Chappey
+  links:
+    - https://twitter.com/psychologue_pro
+    - https://www.facebook.com/psychologue.pro
+    - https://www.linkedin.com/in/psychologuepro/

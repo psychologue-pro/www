@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "Articles"
+title: "Blog et actualités Psy"
+description: "Sélection d'actualités et articles liés à la psychologie, la psychiatrie, la psychanalyse ou la santé / bien être"
+redirect_from: /actualite-psy"
 ---
 
-<div class="container">
+<div class="container-fluid">
     <section class="page-title">
         <div class="container pos-vertical-center">
             <div class="row">
@@ -19,19 +21,20 @@ title: "Articles"
             <div class="row">
                 <!-- This loops through the paginated posts -->
                 {% for post in paginator.posts %}
-                <div class="col-md-4 col-sm-6 masonry__item">
+                <div class="col-lg-3 col-md-4 col-sm-6 masonry__item">
                     <a href="{{ post.url }}">
                         <div class="card card-1">
                             <div class="card__image">
-                                <img alt="Pic" src="/img/aaron-burden-64849.jpg">
+                                <img alt="Pic" src="{{ post.image | default: '/img/aaron-burden-64849.jpg'}}">
                             </div>
                             <div class="card__body boxed boxed--sm bg--white">
-                                <h6>{{ post.categories }}</h6>
+
                                 <div class="card__title">
+                                    <h6 class="left">{{ post.categories }}</h6>
                                     <h4>{{ post.title }}</h4>
                                 </div>
                                 <div class="card__lower">
-                                    <p>{{ post.excerpt }}</p>
+                                    {{ post.excerpt | markdownify }}
                                 </div>
                             </div>
                         </div>
