@@ -24,7 +24,10 @@
 }
 
 .nav-bar.nav--transparent {
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.7);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+}
+.nav-bar.nav--transparent.nav--fixed {
+    text-shadow: none;
 }
 
 #hero h1, #hero h2 {
